@@ -42,6 +42,8 @@ reports/arbitrage/<年份>/<案例短名>/sources.md
 
 以太坊简写用 `eth`。主题词描述已复核的结构，例如 `multipool-atomic`。短名不嵌入收益数字、地址或“稳定盈利”之类的判断。
 
+案例若不是单笔已定位区块，目录年用主要公开事件的 UTC 公历年，短名用小写主题词，不编造区块号。当前这类目录有 `polymarket-mo-money-complete-set` 和 `polymarket-rl-timing-claims`。放在本目录只表示它属于同一套人工研究笔记；报告里的策略类型仍按证据填写，方向性择时不改写成套利。
+
 文件名保持 `README.md` 与 `sources.md`。修正已发布数字时，在报告的复核记录里保留旧数字和修正原因，不另建平行目录。
 
 ## 报告必须回答的问题
