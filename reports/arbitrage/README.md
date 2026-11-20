@@ -15,7 +15,9 @@
 | 报告未单列原帖 UTC。统计观察在 2026-11-19 至 2026-11-20 | Polygon 上的三个 Polymarket 天气账户 | 按站点规则买天气结果。高胜率不是锁定收益 | 三个账户的经济口径为正。宣传的胜率、周收益和“只买高价 NO”没有被样本证实。三段视频未逐帧复核 | [天气市场](2026/polymarket-weather-markets/README.md) |
 | 公开读取 2026-11-20 02:41–02:44 | Polygon 上的 BTC 五分钟和近到期市场 | 延迟、弱势侧、动量和尾盘微观结构。不是无风险套利 | 两个宣传指向同一钱包。结算样本写的是 Chainlink TWAP，不是 Binance 现货。视频未逐帧审查 | [五分钟 BTC](2026/polymarket-5m-btc-microstructure/README.md) |
 
-八篇深度报告是上表这八行。2026-11-20 的 24 条链接、23 个独立帖的去重索引在 [batch-2026-11-20-triage](2026/batch-2026-11-20-triage/README.md)。其中的 [廉价 YES 钱包核验](2026/batch-2026-11-20-triage/c7-cheap-yes-wallet-check.md) 使用完整地址 `0x6e1d5040d0ac73709b0621f620d2a60b80d2d0fa`。CasaVerilla 提到的另一个完整集合钱包写在 mo-money 报告末尾，不单独开案。
+八篇深度报告是上表这八行。跨策略对照和自动化边界在 [跨策略风险与 Bot 架构评估](2026/cross-strategy-risk-and-bot-architecture/README.md)。它不新增行情或回测，只转述这八篇和下面的分拣记录。
+
+2026-11-20 的 24 条链接、23 个独立帖的去重索引在 [batch-2026-11-20-triage](2026/batch-2026-11-20-triage/README.md)。其中的 [廉价 YES 钱包核验](2026/batch-2026-11-20-triage/c7-cheap-yes-wallet-check.md) 使用完整地址 `0x6e1d5040d0ac73709b0621f620d2a60b80d2d0fa`。CasaVerilla 提到的另一个完整集合钱包写在 mo-money 报告末尾，不单独开案。
 
 当前归档日：2026-11-20 Asia/Shanghai。本索引只在人工提交时改写。
 
