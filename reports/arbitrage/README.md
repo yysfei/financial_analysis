@@ -4,6 +4,27 @@
 
 没有程序读取链上数据，也没有程序向本目录自动添加文件。表中每一行都对应一次人工归档。
 
+## 最新报告（按时间倒序）
+
+这一节按写入或最近一次实质更新的 Asia/Shanghai 日期排列。下面的分类表仍按案例发生时间排列，两套顺序不要混用。
+
+| 更新日期 | 一句话结论 | 报告 |
+| --- | --- | --- |
+| 2026-11-20 | 已核验机制里没有可直接照搬的零风险套利；实盘执行边界是隔离的确定性程序，通用助手不持有私钥 | [跨策略风险与 Bot 架构评估](2026/cross-strategy-risk-and-bot-architecture/README.md) |
+| 2026-11-20 | 两个五分钟 BTC 故事指向同一钱包；结算样本是 Chainlink 60 秒 TWAP，不是 Binance 现货 | [五分钟 BTC](2026/polymarket-5m-btc-microstructure/README.md) |
+| 2026-11-20 | 天气账户经济口径为正，高价 NO 的胜率不是锁定收益；三段视频没有逐帧复核 | [天气市场](2026/polymarket-weather-markets/README.md) |
+| 2026-11-20 | AI V2 是方向性价值投注；没有公开钱包、源码或样本外成绩 | [AI V2 价值投注](2026/polymarket-ai-v2-value-betting/README.md) |
+| 2026-11-20 | 24 条链接收成 23 个独立帖；廉价 YES 完整地址已映射，100 笔买入中有 31 笔 NO | [2026-11-20 去重索引](2026/batch-2026-11-20-triage/README.md) |
+| 2026-11-20 | YES+NO 小于 1 不是净利充分条件；附录钱包不与 mo-money 合并收益 | [mo-money 完整集合](2026/polymarket-mo-money-complete-set/README.md) |
+| 2026-11-20 | 视频金额是 133.70 到 14,880.00 美元，与正文 68 到 75 万美元不一致 | [xmglia / FOMO](2026/xmglia-fomo-ai-arbitrage-claims/README.md) |
+| 2026-11-20 | 回测图按 5 年无追加资金折算约 6.56%，不是标题 12% | [foodloss / EA](2026/foodloss-ai-trading-desk-ea-backtest/README.md) |
+| 2026-11-20 | 胜率、夏普和纸面周收益均为作者自述，没有可复现账本 | [强化学习择时](2026/polymarket-rl-timing-claims/README.md) |
+| 2026-11-20 | 历史原子多池交易已成功；没有当前池状态模拟，不构成持续收益 | [以太坊区块 21960556](2025/eth-21960556-multipool-atomic/README.md) |
+
+固定跟踪分支名为 `latest-reports`，用来用固定路径阅读最新归档。新归档应在 4 小时内推到该分支。这次改动只在当前 PR 分支上，仓库没有已安装的定时写入任务。
+
+## 分类目录
+
 | 案例时间（UTC） | 链 | 策略类型 | 研究状态 | 报告 |
 | --- | --- | --- | --- | --- |
 | 2025-03-02 17:02:47 | Ethereum mainnet | 同链单笔原子多池循环 | 历史执行已复核。场所数、币种数和原帖美元估值未独立复点。没有 2026 年池状态模拟 | [区块 21960556](2025/eth-21960556-multipool-atomic/README.md) |
