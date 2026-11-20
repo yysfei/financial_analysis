@@ -7,10 +7,15 @@
 | 案例时间（UTC） | 链 | 策略类型 | 研究状态 | 报告 |
 | --- | --- | --- | --- | --- |
 | 2025-03-02 17:02:47 | Ethereum mainnet | 同链单笔原子多池循环 | 历史执行已复核。场所数、币种数和原帖美元估值未独立复点。没有 2026 年池状态模拟 | [区块 21960556](2025/eth-21960556-multipool-atomic/README.md) |
-| 2026-11-19 09:44:38 | Polygon 上的 Polymarket 账户；完整集合结算不限于单笔 | 二元完整集合。价差不是净利的充分条件 | 机制与四笔链上样本已复核。平台累计盈亏不是纯套利审计。视频没有完整成交账本 | [mo-money 完整集合](2026/polymarket-mo-money-complete-set/README.md) |
+| 2026-11-19 09:44:38 | Polygon 上的 Polymarket 账户；完整集合结算不限于单笔 | 二元完整集合。价差不是净利的充分条件 | 机制与四笔链上样本已复核。文末附录另有钱包 `0xfcda…eecc`，不与 mo-money 合并收益 | [mo-money 完整集合](2026/polymarket-mo-money-complete-set/README.md) |
 | 2026-11-19 07:19:12 | 未给出结算链上的单笔 | 方向性强化学习择时。不是已证明的无风险套利 | 业绩数字均为作者自述。无钱包、代码、市场 ID 或可复现训练记录 | [强化学习择时自述](2026/polymarket-rl-timing-claims/README.md) |
 | 2026-11-19 08:51:45 | 未给出可核验的链、钱包或交易 | 宣传为价差套利。可读材料混合信号、方向性交易和开发提示词 | 两段动态视频已对照。画面金额与正文 68 / 75 万不一致。没有可核验账本。FOMO 自动化授权仍是阻塞项 | [xmglia / FOMO](2026/xmglia-fomo-ai-arbitrage-claims/README.md) |
 | 2026-11-19 15:59:57 | 未给出链上交易。回测图来自 MetaTrader | 量化系统需求提示词，加上未公开规则的 EA 历史回测宣传 | 截图字段已复核。按 5 年无追加资金的条件算术约为 6.56%，不是标题 12% | [foodloss / EA](2026/foodloss-ai-trading-desk-ea-backtest/README.md) |
+| 2026-11-15 15:21:41 | 未给出钱包或成交。样本规则指向 Binance BTC 日线收盘 | 事件价值投注和尾部彩票。不是无风险套利 | 文章可读。没有公开源码、钱包和样本外成绩。没有附带视频 | [AI V2 价值投注](2026/polymarket-ai-v2-value-betting/README.md) |
+| 报告未单列原帖 UTC。统计观察在 2026-11-19 至 2026-11-20 | Polygon 上的三个 Polymarket 天气账户 | 按站点规则买天气结果。高胜率不是锁定收益 | 三个账户的经济口径为正。宣传的胜率、周收益和“只买高价 NO”没有被样本证实。三段视频未逐帧复核 | [天气市场](2026/polymarket-weather-markets/README.md) |
+| 公开读取 2026-11-20 02:41–02:44 | Polygon 上的 BTC 五分钟和近到期市场 | 延迟、弱势侧、动量和尾盘微观结构。不是无风险套利 | 两个宣传指向同一钱包。结算样本写的是 Chainlink TWAP，不是 Binance 现货。视频未逐帧审查 | [五分钟 BTC](2026/polymarket-5m-btc-microstructure/README.md) |
+
+八篇深度报告是上表这八行。2026-11-20 的 24 条链接、23 个独立帖的去重索引在 [batch-2026-11-20-triage](2026/batch-2026-11-20-triage/README.md)。其中的 [廉价 YES 钱包核验](2026/batch-2026-11-20-triage/c7-cheap-yes-wallet-check.md) 使用完整地址 `0x6e1d5040d0ac73709b0621f620d2a60b80d2d0fa`。CasaVerilla 提到的另一个完整集合钱包写在 mo-money 报告末尾，不单独开案。
 
 当前归档日：2026-11-20 Asia/Shanghai。本索引只在人工提交时改写。
 

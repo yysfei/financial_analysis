@@ -62,3 +62,16 @@ Q=100、价格 0.48 与 0.49、两腿都按 taker 计费，是假设例子，不
 ## 明确没有取得
 
 原帖发布当时的账户快照、税务对话、107,973 的统计单位、全量成交与资金转移、每笔历史费率和 maker 比例、完整库存批次、初始或峰值资本、现金流，以及 pUSD 与 USDC.e 的兑换对账。第三方网站上的旧统计没有当作作者策略或全历史业绩。
+
+## 补充钱包附录的来源
+
+附录钱包 `0xfcda969d818f49fb945b889275405f929221eecc` 与 mo-money 不是同一个地址。读取日 2026-11-20，统计观察时间是北京时间 2026-11-04 08:56:15。原始响应不入库。
+
+| 材料 | 链接 | 边界 |
+| --- | --- | --- |
+| 原帖 | [CasaVerilla 2123238871290769847](https://x.com/CasaVerilla/status/2123238871290769847) | 自称 BTC 15 分钟、累计超过 48,000 美元、近 30 天 16,000 美元以上。67 秒视频没有逐帧审查 |
+| 主页 | [profile](https://polymarket.com/profile/0xfcda969d818f49fb945b889275405f929221eecc) | 名称 `3123123121313`。不证明与 mo-money 同一控制人 |
+| 统计 | [v2 user-stats](https://data-api.polymarket.com/v2/user-stats?user=0xfcda969d818f49fb945b889275405f929221eecc) | headline 48,849.52 美元，economic_pnl 34,493.84 美元。两者不相加，也不与 mo-money 相加 |
+| 活动 | [最新 100 条](https://data-api.polymarket.com/v2/activity?user=0xfcda969d818f49fb945b889275405f929221eecc&limit=100) | 抽样是 BTC 五分钟盘，不是全历史 |
+| 字段说明 | [v2 OpenAPI](https://data-api.polymarket.com/v2/openapi.json) | 口径说明 |
+| 费用 | [现行费用](https://docs.polymarket.com/trading/fees)、[费改公告](https://docs.polymarket.com/programs/fee-and-rebate-changes-november-2026) | 48¢+49¢ 的全成本是条件算术，不是 11 月 4 日的逐笔重算 |
