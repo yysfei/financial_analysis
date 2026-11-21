@@ -38,3 +38,25 @@ GET https://data-api.polymarket.com/v2/activity?user=<wallet>&limit=100
 `economic_pnl = position_pnl + wallet_income`；`fees_paid`是退款减charges披露，**不是再扣一次**；页面headline `trade_pnl`为兼容序列，不能当经济净收益。所有统计需要保留`all_time_pnl.timestamp`，不默认本次抓取时刻。
 
 四段演示视频的时长记录约为 38.6 秒、18.8 秒、35 秒和 56 秒。本次只看预览或没有逐帧审查，视频文件不入库。画面不能替代交易和订单日志。报告里的主要结论不依赖视频。
+
+## 2026-11-22 补充：@irongiantXBT / 0x76eca410…
+
+研究读取约 2026-11-22 00:13–04:40 Asia/Shanghai。钱包公开数据读取时点约 2026-11-22 04:20–04:30 Asia/Shanghai。只读公开接口和公开帖文，未连接钱包、未下单。金额、持仓分类和活动计数见 [README.md](README.md) 第 3.4 节。不要把不同口径的盈亏加总成一个「真实总收益」，也不要把排行榜 `pnl` 解释成已隔离的最近 27 天收益。
+
+### 帖文与视频
+
+- 原帖：https://x.com/irongiantXBT/status/2124204194177356049 （2026-11-21 18:12:00 UTC）
+- 回复中的钱包链接：https://x.com/irongiantXBT/status/2124208217123434690 ，指向 https://polymarket.com/profile/0x76eca4109d0dfe8649d5e3861dfccac67ae7d630
+- 引用的长文帖：https://x.com/irongiantXBT/status/2122662343306059780 ，文章标题为 “Your Grok Bot Is Burning Money - Harness Fixes It”。正文是 Grok Bot / jev / harness 搭法，不是 5 分钟交易说明书；实体解析里该文章 URL 曾返回 404，但帖子对象里仍带有文章正文。
+- 视频：主帖所附 24.04 秒视频，本轮已下载并观看。预渲染动画，界面写明 PAPER，损益保持 +$0。视频文件不入库。画面中没有钱包地址，也没有 5,340 或 12,640。
+
+### 公开接口
+
+- https://polymarket.com/profile/0x76eca4109d0dfe8649d5e3861dfccac67ae7d630
+- https://data-api.polymarket.com/v2/positions?user=0x76eca4109d0dfe8649d5e3861dfccac67ae7d630
+- https://data-api.polymarket.com/v2/activity?user=0x76eca4109d0dfe8649d5e3861dfccac67ae7d630
+- https://data-api.polymarket.com/v2/value?user=0x76eca4109d0dfe8649d5e3861dfccac67ae7d630
+- https://data-api.polymarket.com/v2/leaderboard?user=0x76eca4109d0dfe8649d5e3861dfccac67ae7d630&window=all
+- Gamma 公共资料读取于本次扫描（`public-profile` 一类公开接口，创建时间 2026-05-30）
+
+读取结果不另存进本仓库。活动翻页触及 40 页 / 4000 条上限，因此 TRADE 3812 不是全历史成交笔数。
