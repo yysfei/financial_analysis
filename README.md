@@ -9,8 +9,13 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-21 | Kraken BTC/CAD 在 2026-11-21 出现过相对指数约五成的显示折价，但盘口价差超过 11% 且深度极薄，原因未证实，不能视为可执行套利 | [Kraken BTC/CAD 盘口折价](reports/arbitrage/2026/kraken-btc-cad-dislocation/README.md) |
+| 2026-11-21 | 作者黄金框架把黄金视为储值资产，并写明当前价位偏高、个人不会参与；文中 9 月 1 日 4434 美元更接近盘中价而非收盘，不能当成买入信号 | [黄金宏观周期框架](reports/investment/2026/jonylin-gold-macro-framework/README.md) |
+| 2026-11-21 | 财报后 IV 回落可让方向正确的 Call 仍亏损；文中约 40% 亏损与 90%→50% 的 IV 没有交割单核验，这是风险教育不是已验证交易系统 | [财报 IV 回落与 VIX/IV/HV](reports/investment/2026/soberoption-earnings-iv-crush/README.md) |
+| 2026-11-21 | Kobeissi 认为这是正常调整而不是 AI 泡沫破裂，并明确说不认为已经见底；文中多项数字未逐项复核，且作者推广付费订阅，不能自动执行 | [AI 调整还是泡沫破裂](reports/investment/2026/kobeissi-ai-correction-not-bubble/README.md) |
+| 2026-11-21 | 官方债务表支持 2027-09-15 约 10.1 亿美元和 2028 年合计约 49 亿美元的可转债回售窗口；跌破成本不会自动强平，但储备和现金须以官方更新为准，不能排除更远期压力 | [微策略回售窗口与卖压](reports/investment/2026/mstr-convertible-put-reserve/README.md) |
+| 2026-11-21 | 作者 QQQ 截图是持仓相对成本 +1.57%，不是日历年收益；QQQ 截至 2026-11-20 收盘的今年总回报约 -0.62%。VIX 收盘阈值仍未触发，加仓规则仍不完整 | [VIX>40 逆向加仓与 QQQ/TQQQ 长期配置](reports/investment/2026/vix-contrarian-qqq-tqqq/README.md) |
 | 2026-11-21 | 作者承认公开 AI 实盘测试中亏钱的模型更多；提示词给出研究闸门和风控清单，但没有可独立核验的收益，不能视为已验证交易系统；通用助手不应按提示词自动下单 | [一人AI基金、策略工厂与预测市场提示词交易台](reports/investment/2026/waveking-ai-prompt-trading-desk/README.md) |
-| 2026-11-21 | VIX 收盘 35.89，若以收盘价大于 40 为公开规则则尚未触发；QQQ/TQQQ 长期配置加逆向加仓的执行细节未公开，3 倍杠杆回撤显著更大，不能视为已验证买点 | [VIX>40 逆向加仓与 QQQ/TQQQ 长期配置](reports/investment/2026/vix-contrarian-qqq-tqqq/README.md) |
 | 2026-11-20 | 已核验的机制里没有零风险、可直接照搬的稳定套利；实盘执行若要做，只能是隔离的确定性程序，通用助手不持有私钥、不下单 | [跨策略风险与 Bot 架构评估](reports/arbitrage/2026/cross-strategy-risk-and-bot-architecture/README.md) |
 | 2026-11-20 | 五分钟 BTC 宣传指向同一钱包的不同故事；抽查结算写的是 Chainlink 60 秒 TWAP，99¢ 吃单的保本胜率约 99.0693% | [五分钟 BTC](reports/arbitrage/2026/polymarket-5m-btc-microstructure/README.md) |
 | 2026-11-20 | 三个天气账户经济口径为正，但高价 NO 的高胜率不是锁定收益；三段视频没有逐帧复核 | [天气市场](reports/arbitrage/2026/polymarket-weather-markets/README.md) |
