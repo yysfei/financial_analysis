@@ -9,6 +9,7 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-21 | 作者承认公开 AI 实盘测试中亏钱的模型更多；提示词给出研究闸门和风控清单，但没有可独立核验的收益，不能视为已验证交易系统；通用助手不应按提示词自动下单 | [一人AI基金、策略工厂与预测市场提示词交易台](reports/investment/2026/waveking-ai-prompt-trading-desk/README.md) |
 | 2026-11-21 | VIX 收盘 35.89，若以收盘价大于 40 为公开规则则尚未触发；QQQ/TQQQ 长期配置加逆向加仓的执行细节未公开，3 倍杠杆回撤显著更大，不能视为已验证买点 | [VIX>40 逆向加仓与 QQQ/TQQQ 长期配置](reports/investment/2026/vix-contrarian-qqq-tqqq/README.md) |
 | 2026-11-20 | 已核验的机制里没有零风险、可直接照搬的稳定套利；实盘执行若要做，只能是隔离的确定性程序，通用助手不持有私钥、不下单 | [跨策略风险与 Bot 架构评估](reports/arbitrage/2026/cross-strategy-risk-and-bot-architecture/README.md) |
 | 2026-11-20 | 五分钟 BTC 宣传指向同一钱包的不同故事；抽查结算写的是 Chainlink 60 秒 TWAP，99¢ 吃单的保本胜率约 99.0693% | [五分钟 BTC](reports/arbitrage/2026/polymarket-5m-btc-microstructure/README.md) |
