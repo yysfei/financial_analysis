@@ -9,6 +9,8 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-22 | 文章给出了 BTC 5 分钟永续的双模型规则，但正文与交易舱截图规则不一致；展示的 +18.70% 写明是模拟盘且无回测，不能视为已验证交易系统，50 倍杠杆下不应自动下单 | [BTC 5 分钟双模型（GPT + Grok）](reports/investment/2026/chenke-btc5m-dual-model-bot/README.md) |
+| 2026-11-22 | 0xboan 给出先用公开规则过滤、再让 Grok 读 X、最后由人签字的 Solana meme 币流程；文中成绩图标明不是真实运行，公开 GitHub 仓库为 0，且带有 FOMO 推荐链接，不能视为已验证交易系统 | [0xboan Solana meme 币筛查台](reports/investment/2026/oxboan-solana-rug-filter-desk/README.md) |
 | 2026-11-21 | Kraken BTC/CAD 在 2026-11-21 出现过相对指数约五成的显示折价，但盘口价差超过 11% 且深度极薄，原因未证实，不能视为可执行套利 | [Kraken BTC/CAD 盘口折价](reports/arbitrage/2026/kraken-btc-cad-dislocation/README.md) |
 | 2026-11-21 | 作者黄金框架把黄金视为储值资产，并写明当前价位偏高、个人不会参与；文中 9 月 1 日 4434 美元更接近盘中价而非收盘，不能当成买入信号 | [黄金宏观周期框架](reports/investment/2026/jonylin-gold-macro-framework/README.md) |
 | 2026-11-21 | 财报后 IV 回落可让方向正确的 Call 仍亏损；文中约 40% 亏损与 90%→50% 的 IV 没有交割单核验，这是风险教育不是已验证交易系统 | [财报 IV 回落与 VIX/IV/HV](reports/investment/2026/soberoption-earnings-iv-crush/README.md) |
