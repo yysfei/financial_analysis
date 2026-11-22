@@ -9,6 +9,7 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-23 | 美债总额和付息压力可核对，但加息路径被夸大，主席讲话的情景分析被改写为刺泡承诺，全球收割没有证据。这是宏观叙事核验，不是交易策略 | [美联储加息与美元潮汐叙事](reports/research/2026/leelee-fed-dollar-tide/README.md) |
 | 2026-11-23 | 部分交易所欧元 SEPA 充值确实暂停，但 KuCoin 明确提现及其他支付方式仍可用；没有银行名、文件或监管通报证明欧洲主流银行无差别封杀或全球出入金关闭。谨慎保留的限制：其他平台帮助页不是实际到账测试；机构托管上线也不直接证明零售出入金可用，不能拿其夸大反证。这是金融传闻核验，不是套利，也不是可执行策略 | [小电欧洲银行法币通道传闻](reports/research/2026/xiaodian-eu-bank-fiat-rails/README.md) |
 | 2026-11-23 | 官方文档确认 Grok Bot 可接 Bitget 云端 MCP，独立账户且下单前确认；这只是执行层，不创造交易优势。原文与 Bitget 合作并带邀请码，标的是代币化美股而非股票直连。本研究未授权、未下单，不应无人值守交易 | [Bitget Agenthub MCP](reports/investment/2026/waveking-bitget-agenthub-mcp/README.md) |
 | 2026-11-23 | 周五 NVDA 收盘 125.53 美元可核对，大致回到 2024 下半年价格带，但「近两年任意买入几乎全亏」不成立；美光「去年 10 月约 221 美元」不准确。ARK 三天卖出 712,282 股与新闻转述的官方邮件相符，按收盘价约 1.07 亿美元，不能证明 125 美元是安全抄底，不能自动下单 | [NVDA 125 美元抄底与 ARK 减持](reports/investment/2026/komereji-mmoptions-nvda-125-dip-ark/README.md) |
