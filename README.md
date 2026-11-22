@@ -9,6 +9,7 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-22 | 源码与公开规则可核对：这是 VWAP 与 15 分钟 Supertrend 加成交量、实体过滤的方向性日内信号，默认每天最多 3 次；仓库与脚本页没有可核验的收益或完整进出场规则，不能视为已验证交易系统，不应自动下单 | [VWAP + 多周期 Supertrend 限次日内短线指标](reports/investment/2026/systemic-quant-vwap-supertrend-scalp/README.md) |
 | 2026-11-22 | 作者给出黄金 3900–3300 的金字塔加仓表，计划均价约 3540；这是方向性摊低成本规则，不是已验证交易系统。周五黄金收盘已低于表中较高四档，但没有账单，也没有 3300 以下和退出规则，不应自动下单 | [黄金金字塔式越跌越买](reports/investment/2026/yijiangren-gold-btc-pyramid-dca/README.md) |
 | 2026-11-22 | Kobeissi 图把周五标普标在 50 日均线下方 4.1 个标准差；周五收盘 6,910.39、约低于 50 日均线 9.4% 可核对，但 4.1 的公式未复算，「均值回归是大概率」只是推论，不是可执行交易系统 | [标普低于 50 日均线 4.1 个标准差](reports/investment/2026/kkawsb-spx-4sigma-mean-reversion/README.md) |
 | 2026-11-22 | 既有结论不变：不是无风险套利，不能把钱包收益归因到所宣传规则。新增 @irongiantXBT 宣传的钱包真实，但公开持仓是月度方向性价位盘而非 5 分钟涨跌，配视频为 PAPER 动画，不能作为该规则的业绩证明 | [五分钟 BTC](reports/arbitrage/2026/polymarket-5m-btc-microstructure/README.md) |
