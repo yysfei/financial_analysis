@@ -9,6 +9,7 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-22 | 多 Bot 分工可用于受监督编程，但原帖的模型锁定和 API 标价省费假设不适用于 Grok Bot；Jev 脚本未实现，尚无可核验账单。这是投研/工程工具方法，不是交易策略 | [Grok Bot Harness 文件夹](reports/investment/2026/savvy-luvvvv-grok-bot-harness/README.md) |
 | 2026-11-22 | 既有结论不变：黄金金字塔是方向性摊低成本规则，不是已验证交易系统。新增：作者晒出 BTCUSDT 永续 3 倍做多截图，开仓均价 58,344、标记价 61,247.8、未实现约 +14.90%，与价格变动乘 3 倍大体相符，但不是已实现收益，也没有仓位和交易所；杠杆与清算风险未出现在原黄金表中，不应自动下单 | [黄金金字塔式越跌越买](reports/investment/2026/yijiangren-gold-btc-pyramid-dca/README.md) |
 | 2026-11-22 | 期权坤哥讨论周五 VIX 盘中触及 40 后的结构与日历价差。部分极值可核对，但绩效未复现，2022 年标普跌幅口径错误，规则不完整，不能当成已验证机会，不应自动下单 | [周五 VIX 盘中触及 40 与日历价差](reports/investment/2026/sober-vix40-structural-calendar/README.md) |
 | 2026-11-22 | 既有结论不变：VIX 收盘阈值按 11-20 收盘尚未触发，QQQ 截图 +1.57% 是相对成本不是日历年收益，规则仍不完整。新增：公开的 TQQQ 长期收益宣传高于官方 2026-10-31 月末年化，400 倍与官方年化折算倍数不一致，不能自动下单 | [VIX>40 逆向加仓与 QQQ/TQQQ 长期配置](reports/investment/2026/vix-contrarian-qqq-tqqq/README.md) |
