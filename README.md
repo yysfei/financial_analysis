@@ -9,18 +9,19 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-22 | 期权坤哥讨论周五 VIX 盘中触及 40 后的结构与日历价差。部分极值可核对，但绩效未复现，2022 年标普跌幅口径错误，规则不完整，不能当成已验证机会，不应自动下单 | [周五 VIX 盘中触及 40 与日历价差](reports/investment/2026/sober-vix40-structural-calendar/README.md) |
+| 2026-11-22 | 既有结论不变：VIX 收盘阈值按 11-20 收盘尚未触发，QQQ 截图 +1.57% 是相对成本不是日历年收益，规则仍不完整。新增：公开的 TQQQ 长期收益宣传高于官方 2026-10-31 月末年化，400 倍与官方年化折算倍数不一致，不能自动下单 | [VIX>40 逆向加仓与 QQQ/TQQQ 长期配置](reports/investment/2026/vix-contrarian-qqq-tqqq/README.md) |
+| 2026-11-22 | 既有结论不变：不是可执行套利，深度极薄，价差超过 11%，不能把显示折价写成已锁定净利。新增：Kraken 官方称成交保留、未发现入侵；转述帖仍是同一张订单簿，「1.7 万美元」不是新的更低价 | [Kraken BTC/CAD 盘口折价](reports/arbitrage/2026/kraken-btc-cad-dislocation/README.md) |
 | 2026-11-22 | 源码与公开规则可核对：这是 VWAP 与 15 分钟 Supertrend 加成交量、实体过滤的方向性日内信号，默认每天最多 3 次；仓库与脚本页没有可核验的收益或完整进出场规则，不能视为已验证交易系统，不应自动下单 | [VWAP + 多周期 Supertrend 限次日内短线指标](reports/investment/2026/systemic-quant-vwap-supertrend-scalp/README.md) |
 | 2026-11-22 | 作者给出黄金 3900–3300 的金字塔加仓表，计划均价约 3540；这是方向性摊低成本规则，不是已验证交易系统。周五黄金收盘已低于表中较高四档，但没有账单，也没有 3300 以下和退出规则，不应自动下单 | [黄金金字塔式越跌越买](reports/investment/2026/yijiangren-gold-btc-pyramid-dca/README.md) |
 | 2026-11-22 | Kobeissi 图把周五标普标在 50 日均线下方 4.1 个标准差；周五收盘 6,910.39、约低于 50 日均线 9.4% 可核对，但 4.1 的公式未复算，「均值回归是大概率」只是推论，不是可执行交易系统 | [标普低于 50 日均线 4.1 个标准差](reports/investment/2026/kkawsb-spx-4sigma-mean-reversion/README.md) |
 | 2026-11-22 | 既有结论不变：不是无风险套利，不能把钱包收益归因到所宣传规则。新增 @irongiantXBT 宣传的钱包真实，但公开持仓是月度方向性价位盘而非 5 分钟涨跌，配视频为 PAPER 动画，不能作为该规则的业绩证明 | [五分钟 BTC](reports/arbitrage/2026/polymarket-5m-btc-microstructure/README.md) |
 | 2026-11-22 | 文章给出了 BTC 5 分钟永续的双模型规则，但正文与交易舱截图规则不一致；展示的 +18.70% 写明是模拟盘且无回测，不能视为已验证交易系统，50 倍杠杆下不应自动下单 | [BTC 5 分钟双模型（GPT + Grok）](reports/investment/2026/chenke-btc5m-dual-model-bot/README.md) |
 | 2026-11-22 | 0xboan 给出先用公开规则过滤、再让 Grok 读 X、最后由人签字的 Solana meme 币流程；文中成绩图标明不是真实运行，公开 GitHub 仓库为 0，且带有 FOMO 推荐链接，不能视为已验证交易系统 | [0xboan Solana meme 币筛查台](reports/investment/2026/oxboan-solana-rug-filter-desk/README.md) |
-| 2026-11-21 | Kraken BTC/CAD 在 2026-11-21 出现过相对指数约五成的显示折价，但盘口价差超过 11% 且深度极薄，原因未证实，不能视为可执行套利 | [Kraken BTC/CAD 盘口折价](reports/arbitrage/2026/kraken-btc-cad-dislocation/README.md) |
 | 2026-11-21 | 作者黄金框架把黄金视为储值资产，并写明当前价位偏高、个人不会参与；文中 9 月 1 日 4434 美元更接近盘中价而非收盘，不能当成买入信号 | [黄金宏观周期框架](reports/investment/2026/jonylin-gold-macro-framework/README.md) |
 | 2026-11-21 | 财报后 IV 回落可让方向正确的 Call 仍亏损；文中约 40% 亏损与 90%→50% 的 IV 没有交割单核验，这是风险教育不是已验证交易系统 | [财报 IV 回落与 VIX/IV/HV](reports/investment/2026/soberoption-earnings-iv-crush/README.md) |
 | 2026-11-21 | Kobeissi 认为这是正常调整而不是 AI 泡沫破裂，并明确说不认为已经见底；文中多项数字未逐项复核，且作者推广付费订阅，不能自动执行 | [AI 调整还是泡沫破裂](reports/investment/2026/kobeissi-ai-correction-not-bubble/README.md) |
 | 2026-11-21 | 官方债务表支持 2027-09-15 约 10.1 亿美元和 2028 年合计约 49 亿美元的可转债回售窗口；跌破成本不会自动强平，但储备和现金须以官方更新为准，不能排除更远期压力 | [微策略回售窗口与卖压](reports/investment/2026/mstr-convertible-put-reserve/README.md) |
-| 2026-11-21 | 作者 QQQ 截图是持仓相对成本 +1.57%，不是日历年收益；QQQ 截至 2026-11-20 收盘的今年总回报约 -0.62%。VIX 收盘阈值仍未触发，加仓规则仍不完整 | [VIX>40 逆向加仓与 QQQ/TQQQ 长期配置](reports/investment/2026/vix-contrarian-qqq-tqqq/README.md) |
 | 2026-11-21 | 作者承认公开 AI 实盘测试中亏钱的模型更多；提示词给出研究闸门和风控清单，但没有可独立核验的收益，不能视为已验证交易系统；通用助手不应按提示词自动下单 | [一人AI基金、策略工厂与预测市场提示词交易台](reports/investment/2026/waveking-ai-prompt-trading-desk/README.md) |
 | 2026-11-20 | 已核验的机制里没有零风险、可直接照搬的稳定套利；实盘执行若要做，只能是隔离的确定性程序，通用助手不持有私钥、不下单 | [跨策略风险与 Bot 架构评估](reports/arbitrage/2026/cross-strategy-risk-and-bot-architecture/README.md) |
 | 2026-11-20 | 三个天气账户经济口径为正，但高价 NO 的高胜率不是锁定收益；三段视频没有逐帧复核 | [天气市场](reports/arbitrage/2026/polymarket-weather-markets/README.md) |

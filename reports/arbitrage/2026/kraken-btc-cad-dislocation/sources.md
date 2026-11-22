@@ -35,3 +35,16 @@
 ## 利益冲突记录
 
 原帖是市场观察截图，未见付费产品推广。本笔记与发帖人、Kraken 均无商业关系。评估不因“看起来像套利”而放宽可执行性标准。
+
+## 2026-11-22 追加
+
+不改写“不是可执行套利、深度极薄、价差超过 11%、不能把显示折价写成已锁定净利”。写档时 X `get_posts_by_ids` 因缺少 `developer.billing.write` 被拒，没有重拉原始 JSON。Kraken 支持帖的原文被下面两篇已打开的报道逐字引用，与本轮已经核对的原文一致。
+
+| 来源 | 访问方式 | 时间 | 用到的内容 | 不用它证明的事情 | 等级 |
+| --- | --- | --- | --- | --- | --- |
+| https://x.com/krakensupport/status/2124098562443354591 | 本轮已核对全文；CryptoSlate 与 Coindaro 逐字转引 | 2026-11-21 11:12:15 UTC（2026-11-21 19:12:15 Asia/Shanghai）。账号 `@krakensupport`，显示名 Kraken Support | “Starting around 20:00 UTC on Nov 20, CAD pairs on Kraken saw heavy selling pressure that pushed prices well below other markets. Our platform processed every order correctly, and our security teams found no sign of a breach or compromised accounts. Executed trades stand.” | 不证明最低价上的可成交数量和提币，也不给出完整成因。结算方向只是：已成交的单会保留 | A（已核对的原文，并与两家引文一致） |
+| https://x.com/chenke20266/status/2124395310105731125 | 本轮已读转述帖 | 2026-11-22 14:51:25 Asia/Shanghai（2026-11-22 06:51:25 UTC） | “Kraken加元盘闪崩 比特币一度报1.7万美元 市价打五折 官方说成交有效 不回滚”。附图为原报告同一张订单簿：Last 43,607.4 CAD，Index 83,515.4 CAD，24h −50.76%，价差 4,707.5 / 11.4111%，Total CAD 约等于 1 | 不是新盘口。1.7 万美元即原记录的 24,250 CAD，按约 1.43445 换算约 16,905.43 美元 | A（帖与附图身份）/ B（沿用既有换算） |
+| https://cryptoslate.com/kraken-says-trades-stand-after-bitcoin-sold-at-24250-canadian/ | 2026-11-22 打开 | 文内时间 2026-11-21 13:30 GMT | 复述官方声明，并写 BTC/CAD 触及 24,250 CAD | 文中的 K 线路径和 09:40 UTC ticker 细节本轮未用 Kraken 原始响应复核 | C |
+| https://www.coindaro.com/kraken-btc-cad-flash-crash-trades-stand/ | 2026-11-22 打开 | 文内时间 2026-11-21 13:20 | 同样复述官方声明，并描述公开成交里按钟点出现的市价卖单 | 本轮没有下载 Kraken 逐笔文件独立计数。不能据此声称已经找到下单人。文中约 1.4325 的汇率只是另一套换算 | C |
+
+本轮没有登录 Kraken，没有下载逐笔成交，没有连接钱包。

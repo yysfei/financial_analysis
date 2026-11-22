@@ -10,8 +10,8 @@
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-22 | 既有结论不变：不是可执行套利，深度极薄，价差超过 11%，不能把显示折价写成已锁定净利。新增：Kraken 官方称成交保留、未发现入侵；转述帖仍是同一张订单簿，「1.7 万美元」不是新的更低价 | [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md) |
 | 2026-11-22 | 既有结论不变：不是无风险套利，不能把钱包收益归因到所宣传规则。新增 @irongiantXBT 宣传的钱包真实，但公开持仓是月度方向性价位盘而非 5 分钟涨跌，配视频为 PAPER 动画，不能作为该规则的业绩证明 | [五分钟 BTC](2026/polymarket-5m-btc-microstructure/README.md) |
-| 2026-11-21 | Kraken BTC/CAD 在 2026-11-21 出现过相对指数约五成的显示折价，但盘口价差超过 11% 且深度极薄，原因未证实，不能视为可执行套利 | [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md) |
 | 2026-11-20 | 已核验机制里没有可直接照搬的零风险套利；实盘执行边界是隔离的确定性程序，通用助手不持有私钥 | [跨策略风险与 Bot 架构评估](2026/cross-strategy-risk-and-bot-architecture/README.md) |
 | 2026-11-20 | 天气账户经济口径为正，高价 NO 的胜率不是锁定收益；三段视频没有逐帧复核 | [天气市场](2026/polymarket-weather-markets/README.md) |
 | 2026-11-20 | AI V2 是方向性价值投注；没有公开钱包、源码或样本外成绩 | [AI V2 价值投注](2026/polymarket-ai-v2-value-betting/README.md) |
@@ -22,7 +22,7 @@
 | 2026-11-20 | 胜率、夏普和纸面周收益均为作者自述，没有可复现账本 | [强化学习择时](2026/polymarket-rl-timing-claims/README.md) |
 | 2026-11-20 | 历史原子多池交易已成功；没有当前池状态模拟，不构成持续收益 | [以太坊区块 21960556](2025/eth-21960556-multipool-atomic/README.md) |
 
-固定跟踪分支名为 `latest-reports`，用来用固定路径阅读最新归档。新归档应在 4 小时内推到该分支。这次改动只在当前 PR 分支上，仓库没有已安装的定时写入任务。
+固定跟踪分支名为 `latest-reports`，用来用固定路径阅读最新归档。新归档应在 4 小时内推到该分支。本提交只更新 `latest-reports`，不合并 `main`，也不从该分支打开 Pull Request。仓库没有已安装的定时写入任务。
 
 ## 分类目录
 
@@ -36,7 +36,7 @@
 | 2026-11-15 15:21:41 | 未给出钱包或成交。样本规则指向 Binance BTC 日线收盘 | 事件价值投注和尾部彩票。不是无风险套利 | 文章可读。没有公开源码、钱包和样本外成绩。没有附带视频 | [AI V2 价值投注](2026/polymarket-ai-v2-value-betting/README.md) |
 | 报告未单列原帖 UTC。统计观察在 2026-11-19 至 2026-11-20 | Polygon 上的三个 Polymarket 天气账户 | 按站点规则买天气结果。高胜率不是锁定收益 | 三个账户的经济口径为正。宣传的胜率、周收益和“只买高价 NO”没有被样本证实。三段视频未逐帧复核 | [天气市场](2026/polymarket-weather-markets/README.md) |
 | 公开读取 2026-11-20 02:41–02:44；2026-11-22 补充读取约 00:13–04:40 | Polygon 上的 BTC 五分钟和近到期市场 | 延迟、弱势侧、动量和尾盘微观结构。不是无风险套利 | 两个宣传指向同一钱包。结算样本写的是 Chainlink TWAP，不是 Binance 现货。视频未逐帧审查。2026-11-22 补充：@irongiantXBT 宣传的钱包真实，但公开持仓是月度方向性价位盘而非 5 分钟涨跌，配视频为 PAPER 动画，不能作为该规则的业绩证明，也不能把该钱包收益归因到所宣传规则 | [五分钟 BTC](2026/polymarket-5m-btc-microstructure/README.md) |
-| 2026-11-21 09:16:43（Asia/Shanghai 17:16:43） | Kraken 现货（BTC/CAD，对照 BTC/USD） | 中心化交易所跨计价货币的盘口错位 | 显示折价可核验但价差和深度不支持可执行套利、成因未证实 | [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md) |
+| 2026-11-21 09:16:43（Asia/Shanghai 17:16:43）；官方帖 2026-11-21 11:12:15 UTC | Kraken 现货（BTC/CAD，对照 BTC/USD） | 中心化交易所跨计价货币的盘口错位 | 显示折价可核验，但价差和深度不支持可执行套利。2026-11-22 追加：官方称成交保留、未发现入侵；这不证明能按最低价买到并提币。转述帖不是新盘口 | [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md) |
 
 上表前八行仍是此前的八篇深度报告。第九行是 [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md)。跨策略对照和自动化边界在 [跨策略风险与 Bot 架构评估](2026/cross-strategy-risk-and-bot-architecture/README.md)。它不新增行情或回测，只转述这八篇和下面的分拣记录。
 
