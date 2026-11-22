@@ -9,6 +9,11 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-23 | 官方文档确认 Grok Bot 可接 Bitget 云端 MCP，独立账户且下单前确认；这只是执行层，不创造交易优势。原文与 Bitget 合作并带邀请码，标的是代币化美股而非股票直连。本研究未授权、未下单，不应无人值守交易 | [Bitget Agenthub MCP](reports/investment/2026/waveking-bitget-agenthub-mcp/README.md) |
+| 2026-11-23 | 周五 NVDA 收盘 125.53 美元可核对，大致回到 2024 下半年价格带，但「近两年任意买入几乎全亏」不成立；美光「去年 10 月约 221 美元」不准确。ARK 三天卖出 712,282 股与新闻转述的官方邮件相符，按收盘价约 1.07 亿美元，不能证明 125 美元是安全抄底，不能自动下单 | [NVDA 125 美元抄底与 ARK 减持](reports/investment/2026/komereji-mmoptions-nvda-125-dip-ark/README.md) |
+| 2026-11-23 | VRT / CEG / VST 的多项官方财报、合同和周五跌幅可核对；亚马逊 20 年协议含 690MW（其中约 190MW 为新增），谷歌协议支持 890MW 新增核电。这是方向性板块观点，没有进出场规则，不能视为已验证机会 | [AI 电力与基础设施：VRT / CEG / VST](reports/investment/2026/python-xxt-ai-power-infra/README.md) |
+| 2026-11-23 | 作者称 VIX 多空 +22.32%、A 股增强 +9.77% 为实盘，但规则未公开、成绩无法独立核对；所列标普 +5.61% 与 11 月 20 日收盘后约 +0.8% 至 +0.9% 的公开口径不一致。这是带俱乐部推广的绩效展示，不是可执行交易系统 | [VIX 多空与 A 股指数增强周报](reports/investment/2026/amy6tina-vix-ls-index-enhance/README.md) |
+| 2026-11-23 | 中国融资保证金 100% 降至 80% 由上交所公告确认，但 11 月 30 日才生效，周一开盘并不适用。台湾金管会限空措施 11 月 23 日起生效，财政部称国安基金已进场但未公布金额。韩国是约 10.76 万亿韩元稳定基金准备启动、并非已经买入。「黑色星期一能躲过」只是推论 | [周末亚洲稳市措施](reports/investment/2026/oragnes-asia-weekend-stabilization/README.md) |
 | 2026-11-22 | 多 Bot 分工可用于受监督编程，但原帖的模型锁定和 API 标价省费假设不适用于 Grok Bot；Jev 脚本未实现，尚无可核验账单。这是投研/工程工具方法，不是交易策略 | [Grok Bot Harness 文件夹](reports/investment/2026/savvy-luvvvv-grok-bot-harness/README.md) |
 | 2026-11-22 | 既有结论不变：黄金金字塔是方向性摊低成本规则，不是已验证交易系统。新增：作者晒出 BTCUSDT 永续 3 倍做多截图，开仓均价 58,344、标记价 61,247.8、未实现约 +14.90%，与价格变动乘 3 倍大体相符，但不是已实现收益，也没有仓位和交易所；杠杆与清算风险未出现在原黄金表中，不应自动下单 | [黄金金字塔式越跌越买](reports/investment/2026/yijiangren-gold-btc-pyramid-dca/README.md) |
 | 2026-11-22 | 期权坤哥讨论周五 VIX 盘中触及 40 后的结构与日历价差。部分极值可核对，但绩效未复现，2022 年标普跌幅口径错误，规则不完整，不能当成已验证机会，不应自动下单 | [周五 VIX 盘中触及 40 与日历价差](reports/investment/2026/sober-vix40-structural-calendar/README.md) |

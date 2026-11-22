@@ -165,7 +165,7 @@ flowchart TD
 
 ## 来源
 
-主要来源与访问记录见同目录 [sources.md](sources.md)。
+主要来源与访问记录见同目录 [sources.md](sources.md)。后续执行层长文另档为 [Bitget Agenthub MCP 与 Grok Bot 执行层](../waveking-bitget-agenthub-mcp/README.md)。
 
 ## 未解决问题和复核记录
 
@@ -180,6 +180,7 @@ flowchart TD
 复核记录：
 
 - 2026-11-21 Asia/Shanghai：首次归档。阅读了本轮两条原帖及两页配图、两篇被引用长文的公开正文，并核对其引用的 Fable 5.2 定价与部分基准、TradingView / Alpaca 官方 MCP 是否存在，以及 Polymarket 存在地区限制。未连接任何交易账户，未运行回测，未下单。
+- 2026-11-23 Asia/Shanghai：作者发布 Bitget Agenthub MCP 后续长文，已另档为 [Bitget Agenthub MCP 与 Grok Bot 执行层](../waveking-bitget-agenthub-mcp/README.md)。本篇关于提示词交易台并非已验证盈利系统、通用助手不应无人值守下单的结论不变。
 
 ## 可执行性与自动化部署评估
 
