@@ -9,6 +9,7 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-23 | 格力滚动税前股息率 7.32% 和本金算术基本成立，但年度现金分红折算不等于每月实际派息，历史股息率不保证未来，税后与持有期有关，新预案未实施。这是高股息本金测算，不是套利，也不是完整交易系统 | [格力 7.32% 股息率躺平测算](reports/investment/2026/kongyigc-gree-dividend-yield/README.md) |
 | 2026-11-23 | 美债总额和付息压力可核对，但加息路径被夸大，主席讲话的情景分析被改写为刺泡承诺，全球收割没有证据。这是宏观叙事核验，不是交易策略 | [美联储加息与美元潮汐叙事](reports/research/2026/leelee-fed-dollar-tide/README.md) |
 | 2026-11-23 | 部分交易所欧元 SEPA 充值确实暂停，但 KuCoin 明确提现及其他支付方式仍可用；没有银行名、文件或监管通报证明欧洲主流银行无差别封杀或全球出入金关闭。谨慎保留的限制：其他平台帮助页不是实际到账测试；机构托管上线也不直接证明零售出入金可用，不能拿其夸大反证。这是金融传闻核验，不是套利，也不是可执行策略 | [小电欧洲银行法币通道传闻](reports/research/2026/xiaodian-eu-bank-fiat-rails/README.md) |
 | 2026-11-23 | 官方文档确认 Grok Bot 可接 Bitget 云端 MCP，独立账户且下单前确认；这只是执行层，不创造交易优势。原文与 Bitget 合作并带邀请码，标的是代币化美股而非股票直连。本研究未授权、未下单，不应无人值守交易 | [Bitget Agenthub MCP](reports/investment/2026/waveking-bitget-agenthub-mcp/README.md) |
