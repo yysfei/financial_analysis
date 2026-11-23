@@ -9,6 +9,9 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-24 | 作者称 8 个 Grok 代理上周净赚 7,185 美元，但只有自我宣传和视频，没有可核对钱包；其 8 月指南写明同一账号下的 Bot 共享一台电脑，与「各自独立浏览器」不符。这不是已验证交易系统，不应连接钱包或自动下单 | [Grok Bot 八代理加密交易台](reports/investment/2026/bober-smart-grokbot-eight-agent-desk/README.md) |
+| 2026-11-24 | 反向并购、Q3 营收 742.7 万美元、RWA 640 万美元和 84% 毛利率可核对，但约 89% 的 Q3 营收是关联方，GAAP 净亏 1,020 万美元，逾 11 亿美元只是非约束性 LOI。0.28 倍 PS 不能证明低估，也不是已验证交易机会，不能自动下单 | [OPNW RWA 微盘股观察](reports/investment/2026/retiredxu-opnw-rwa-microcap-rerate/README.md) |
+| 2026-11-24 | 事件新闻确实存在到达时差，B-PIPE 与 ApeWire 也是真实产品，但本轮未核「彭博独家早于官方」的时戳，也不能证明 ApeWire 直连彭博专线。Quote 上的一键交易面向链上市场，不等于美股 0DTE。这不是已验证优势，不能自动下单 | [0DTE 新闻时差与 ApeWire](reports/investment/2026/mm-options-nvda-0dte-newswire-latency/README.md) |
 | 2026-11-24 | 作者用 8 个 Open-Meteo 模型给 Polymarket 城市最高气温档估概率，edge 达到 0.08 才用 1 USDC 买卖。规则公开、可讨论，但一天纸面 72 笔、+10.35 USDC 不是已验证盈利。shamubronze3 官方累计 +$10.2K 可见，不能证明这套公式，也不能证明扣费后的可复制净利。这不是套利，不应连接钱包或自动下单 | [天气多模型价值投注](reports/investment/2026/chenke-polymarket-weather-multimodel-valuebet/README.md) |
 | 2026-11-24 | 既有核验保留：11-20 收盘 125.53 美元、贝森特 CBS 原话、特朗普希望请回的媒体引文不改写，「125 美元是已验证安全抄底」仍不成立。新增：8-K 与 11-23 新闻稿确认 11-22 起恢复黄仁勋职务，取代此前媒体所称董事长拒绝。Yahoo 在北京时间 11-24 00:12 的 167.87（+33.73%）是盘中价，不是 11-23 官方收盘。治理与合规调查未结束，高开后追买没有新规则，不能自动下单 | [NVDA 125 美元抄底与 ARK 减持](reports/investment/2026/komereji-mmoptions-nvda-125-dip-ark/README.md) |
 | 2026-11-24 | 既有结论保留：成功标准是可解释的 results.tsv，不是可盈利策略，仓库写明不是实盘建议，本轮仍未独立复跑。新增：下载页公开了 v0.5.1 上 GLM-5.4（R31）对 Muse Spark 1.3 与 GLM-5.3（均为 R100）的对比，页面自述巅峰 Robust Sharpe 2.4524 / 1.8618 / 1.7246。轮次不同，作者称设计不严谨，且未打开 results.tsv。这只提高「做过对比并公开数据包」的证据，不能自动下单 | [Auto-Quant 研究循环](reports/investment/2026/traderalice-auto-quant-loop/README.md) |
