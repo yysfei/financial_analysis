@@ -60,3 +60,11 @@ GET https://data-api.polymarket.com/v2/activity?user=<wallet>&limit=100
 - Gamma 公共资料读取于本次扫描（`public-profile` 一类公开接口，创建时间 2026-05-30）
 
 读取结果不另存进本仓库。活动翻页触及 40 页 / 4000 条上限，因此 TRADE 3812 不是全历史成交笔数。
+
+## 2026-11-23 附录：late-to-tomorrow
+
+- 主帖：https://x.com/linda6248130564/status/2124803436688679069 （2026-11-23 17:53:10 Asia/Shanghai）
+- 跟帖：https://x.com/linda6248130564/status/2124803440090264024 （2026-11-23 17:53:11 Asia/Shanghai）
+- 官方个人页（无推荐参数，账户身份以该页为准）：https://polymarket.com/@late-to-tomorrow
+- 原帖中的推荐链接：https://polymarket.com/zh/@late-to-tomorrow?via=k3H86f8 。`via=k3H86f8` 只是推荐跟踪，不改变账户身份。
+- 本轮记下的官方页字段：Joined Feb 2026；Total PnL +$199.1K；Total Volume 9.4M；Markets Traded 19,216。Positions Value 与 Biggest Win 的对应关系未核对，不写成精确当前持仓或单笔最大盈利。原帖视频未逐帧核验。

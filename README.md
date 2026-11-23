@@ -9,6 +9,12 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-23 | 作者称 Grok Bot 用 5 个钱包和代理把 500 美元做到 6310 美元，但只提供加速录屏，没有公开规则和可核对钱包；文末是 GMGN/FOMO 邀请链。这不是已验证系统，也不是套利，不应自动下单 | [Grok Bot 全天自动交易 Meme 币](reports/investment/2026/linda-grokbot-meme-intraday/README.md) |
+| 2026-11-23 | 把部分 ETF 仓位转到可转债、称接近历史最大回撤，有可讨论的债底保护逻辑；周五剔除双高后转债中位数 119.24 元、万得可转债等权本周 −7.24% 可核对，但自称年化 43% 和 14.79% 回撤无法独立验证，且带圈子/VIP 推广。这不是已验证系统，不能自动下单 | [转债接近历史最大回撤后的「三角」再配置](reports/investment/2026/z007-cb-maxdd-triangle-allocation/README.md) |
+| 2026-11-23 | 一半 QQQ、一半个股与行业 ETF、闲钱持续投入美股的配置思路说得通，但自称周跌 11.76% 无法核对，也没有再平衡规则；标普周跌 8.61%、纳指周跌 10.02%、QQQ 同周约 −10.51% 可核对。这不是已验证系统，不能自动下单 | [一半 QQQ、一半个股与行业 ETF](reports/investment/2026/charles77xixi-qqq-half-stock-etf/README.md) |
+| 2026-11-23 | 周五 QQQ 盘中低点 606.23 美元、收盘 608.45 美元可核对，「606 止跌」是盘中低点不是收盘；687 接近 11 月 13 日高点一带，587 与 TD6、约 3 周目标未独立复算。这是短线看法，不是完整交易系统，作者也写可以看空不做空，不能自动下单 | [QQQ 606/687/587 短线看法](reports/investment/2026/komereji-qqq-606-687-587-timing/README.md) |
+| 2026-11-23 | 既有结论不变：官方债务表仍支持 2027-09-15 约 10.1 亿美元和 2028 年合计约 49 亿美元回售窗口，跌破成本不会自动强平。新增：@python_xxt 9 月长文讨论优先股现金成本和溢价可独立于 BTC 收缩，但当时结论是不适合做多也不适合做空；今日称 9 月起轻仓做空。9 月 17 日收盘 132.25 美元、11 月 20 日收盘 77.80 美元可核对，这不是可自动执行的规则 | [微策略回售窗口与卖压](reports/investment/2026/mstr-convertible-put-reserve/README.md) |
+| 2026-11-23 | 既有结论不变：不是可执行套利，不能把钱包收益归因到所宣传规则。新增宣传账户 late-to-tomorrow 官方页累计约 +19.91 万美元、成交量约 940 万美元可核对，可见样本是已结算的五分钟涨跌且多为显示 −100% 的亏损单；「千台 Mac Mini、收益稳定」未验证，带推荐链接，不能自动下单 | [五分钟 BTC](reports/arbitrage/2026/polymarket-5m-btc-microstructure/README.md) |
 | 2026-11-23 | Auto-Quant 是把 autoresearch 接到 FreqTrade 的受监督研究循环。官方成功标准是跑出可解释的 results.tsv，不是找到可盈利策略，并写明不是实盘建议。仓库自述的 Sharpe 本轮没有独立复跑。这是投研工具，不是套利，也不应自动下单 | [Auto-Quant 研究循环](reports/investment/2026/traderalice-auto-quant-loop/README.md) |
 | 2026-11-23 | 熊市 Meme 跌 70%–90% 后再按五项主观标准低吸，有可讨论的逆向逻辑，但没有公开回测和可核对钱包，多数暴跌币可能归零。文末是 GMGN 邀请链。这不是已验证系统，也不是套利，规则补全前不适合自动下单 | [熊市 Meme 低吸复利](reports/investment/2026/linda-meme-bear-dip-compound/README.md) |
 | 2026-11-23 | 既有结论不变：周五 NVDA 收盘 125.53 美元可核对，125 美元不是已验证安全抄底，不能自动下单；贝森特「Jensen is on the outside now / 要看责任止于何处」不改写。新增：The National 与 Fox Business 引特朗普希望董事会请回黄仁勋，并称董事会主席已拒绝。没有新的官方收盘价，总统表态不是交易信号 | [NVDA 125 美元抄底与 ARK 减持](reports/investment/2026/komereji-mmoptions-nvda-125-dip-ark/README.md) |
@@ -35,13 +41,11 @@ Financial Analysis
 | 2026-11-22 | 既有结论不变：不是可执行套利，深度极薄，价差超过 11%，不能把显示折价写成已锁定净利。新增：Kraken 官方称成交保留、未发现入侵；转述帖仍是同一张订单簿，「1.7 万美元」不是新的更低价 | [Kraken BTC/CAD 盘口折价](reports/arbitrage/2026/kraken-btc-cad-dislocation/README.md) |
 | 2026-11-22 | 源码与公开规则可核对：这是 VWAP 与 15 分钟 Supertrend 加成交量、实体过滤的方向性日内信号，默认每天最多 3 次；仓库与脚本页没有可核验的收益或完整进出场规则，不能视为已验证交易系统，不应自动下单 | [VWAP + 多周期 Supertrend 限次日内短线指标](reports/investment/2026/systemic-quant-vwap-supertrend-scalp/README.md) |
 | 2026-11-22 | Kobeissi 图把周五标普标在 50 日均线下方 4.1 个标准差；周五收盘 6,910.39、约低于 50 日均线 9.4% 可核对，但 4.1 的公式未复算，「均值回归是大概率」只是推论，不是可执行交易系统 | [标普低于 50 日均线 4.1 个标准差](reports/investment/2026/kkawsb-spx-4sigma-mean-reversion/README.md) |
-| 2026-11-22 | 既有结论不变：不是无风险套利，不能把钱包收益归因到所宣传规则。新增 @irongiantXBT 宣传的钱包真实，但公开持仓是月度方向性价位盘而非 5 分钟涨跌，配视频为 PAPER 动画，不能作为该规则的业绩证明 | [五分钟 BTC](reports/arbitrage/2026/polymarket-5m-btc-microstructure/README.md) |
 | 2026-11-22 | 文章给出了 BTC 5 分钟永续的双模型规则，但正文与交易舱截图规则不一致；展示的 +18.70% 写明是模拟盘且无回测，不能视为已验证交易系统，50 倍杠杆下不应自动下单 | [BTC 5 分钟双模型（GPT + Grok）](reports/investment/2026/chenke-btc5m-dual-model-bot/README.md) |
 | 2026-11-22 | 0xboan 给出先用公开规则过滤、再让 Grok 读 X、最后由人签字的 Solana meme 币流程；文中成绩图标明不是真实运行，公开 GitHub 仓库为 0，且带有 FOMO 推荐链接，不能视为已验证交易系统 | [0xboan Solana meme 币筛查台](reports/investment/2026/oxboan-solana-rug-filter-desk/README.md) |
 | 2026-11-21 | 作者黄金框架把黄金视为储值资产，并写明当前价位偏高、个人不会参与；文中 9 月 1 日 4434 美元更接近盘中价而非收盘，不能当成买入信号 | [黄金宏观周期框架](reports/investment/2026/jonylin-gold-macro-framework/README.md) |
 | 2026-11-21 | 财报后 IV 回落可让方向正确的 Call 仍亏损；文中约 40% 亏损与 90%→50% 的 IV 没有交割单核验，这是风险教育不是已验证交易系统 | [财报 IV 回落与 VIX/IV/HV](reports/investment/2026/soberoption-earnings-iv-crush/README.md) |
 | 2026-11-21 | Kobeissi 认为这是正常调整而不是 AI 泡沫破裂，并明确说不认为已经见底；文中多项数字未逐项复核，且作者推广付费订阅，不能自动执行 | [AI 调整还是泡沫破裂](reports/investment/2026/kobeissi-ai-correction-not-bubble/README.md) |
-| 2026-11-21 | 官方债务表支持 2027-09-15 约 10.1 亿美元和 2028 年合计约 49 亿美元的可转债回售窗口；跌破成本不会自动强平，但储备和现金须以官方更新为准，不能排除更远期压力 | [微策略回售窗口与卖压](reports/investment/2026/mstr-convertible-put-reserve/README.md) |
 | 2026-11-21 | 作者承认公开 AI 实盘测试中亏钱的模型更多；提示词给出研究闸门和风控清单，但没有可独立核验的收益，不能视为已验证交易系统；通用助手不应按提示词自动下单 | [一人AI基金、策略工厂与预测市场提示词交易台](reports/investment/2026/waveking-ai-prompt-trading-desk/README.md) |
 | 2026-11-20 | 已核验的机制里没有零风险、可直接照搬的稳定套利；实盘执行若要做，只能是隔离的确定性程序，通用助手不持有私钥、不下单 | [跨策略风险与 Bot 架构评估](reports/arbitrage/2026/cross-strategy-risk-and-bot-architecture/README.md) |
 | 2026-11-20 | 三个天气账户经济口径为正，但高价 NO 的高胜率不是锁定收益；三段视频没有逐帧复核 | [天气市场](reports/arbitrage/2026/polymarket-weather-markets/README.md) |
