@@ -166,3 +166,5 @@
 2026-11-23 另有一份天气方向笔记：[WrongBy1Degree 邻档温度](../polymarket-wrongby1degree-adjacent-temp/README.md)。那篇是另一个账户、另一套说法：淡化共识温度，押相邻的一档。它的公开持仓里同时有 YES 和 NO，同一城市还可以同时持有相邻两档 NO。
 
 本报告的原结论不变。这里核验的仍是高价买 NO、机场站口径，以及 Happening9014、HondaCivic、HighTempTation 三个钱包。两篇不合并，收益不相加，也不能拿一篇的盈亏去证明另一篇的口诀。完整集合套利见 [mo-money](../polymarket-mo-money-complete-set/README.md)，同样不并入本篇。
+
+2026-11-24 另有一份投资笔记：[天气多模型价值投注](../../../investment/2026/chenke-polymarket-weather-multimodel-valuebet/README.md)。那是另一位作者用多个数值模式估计档位概率，再和市场价格比较。机制与本篇的高价买 NO、机场站口径不同。本报告的原结论不变，账户和收益不相加。

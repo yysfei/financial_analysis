@@ -108,3 +108,48 @@
 - 特朗普 Truth Social 原帖
 - 英伟达财报电话会逐字稿
 - 2026-11-23 的 NVDA 官方收盘价、夜盘或盘前成交价。没有这些价格，就不改 11-20 的 125.53 美元
+
+# 2026-11-24 再追加来源：复职公告与盘中报价
+
+以下条目继续追加，不删除前面的来源表。11-20 收盘 125.53 美元、贝森特 CBS 原话和特朗普媒体引文的原条目保持不动。时间线扫描覆盖北京时间 2026-11-23 20:11:15 至 2026-11-24 00:09:09。Yahoo 是扫描结束后约 3 分钟打开的。
+
+## A. 官方文件与该时刻的行情页
+
+A18–A20 在本归档撰写时再次打开，文本与下表相符。A21 与 A22 是扫描结束后约 3 分钟的页面读数，访问时刻写在表内。本撰写没有用更晚的报价替换这两个读数。
+
+| 编号 | 材料 | 地址 | 用到的字段或内容 |
+| --- | --- | --- | --- |
+| A18 | NVIDIA Newsroom，2026-11-23 | https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director | 即日起恢复 Jensen Huang 为 President、CEO 及董事。全票。对 candor 与领导能力满意。收到美国政府高层意见后认为不构成国家安全风险。Jones 留任董事长。Kress 继续任 CFO，并被感谢担任临时 CEO。Huang 称荣幸回归，以最大谦卑和重新承诺承担责任。独立董事调查继续至结束。National Security and Export Control Committee。寻聘 Chief Compliance Officer，向 Nominating and Corporate Governance Committee 汇报。继续配合政府调查 |
+| A19 | Form 8-K | https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm | Date of earliest event reported: November 22, 2026。Item 5.02：2026-11-22 恢复 Jen-Hsun Huang 为 President、CEO 和董事，立即生效。Kress 继续任 EVP 兼 CFO。签署日 2026-11-23，签署人 Colette M. Kress |
+| A20 | Exhibit 99.1 | https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nov23pressrelease.htm | 与 A18 文本一致 |
+| A21 | Yahoo Finance 报价页 | https://finance.yahoo.com/quote/NVDA/ | 2026-11-23 11:12:12 AM EST，即北京时间 2026-11-24 00:12:12。Market Open。167.87，+42.34（+33.73%）。Previous Close 125.53。Open 167.04。Day Low 156.93。Day High 171.50。Volume 432,131,506。Avg. Volume 170,462,129。页面另写现金股息 0.25 美元、除息日 Dec. 2, 2026。这不是公司股息公告原文，也不是 11-23 官方收盘 |
+| A22 | Yahoo Finance 历史页 | https://finance.yahoo.com/quote/NVDA/history/ | 11:12:42 AM EST，即北京时间 2026-11-24 00:12:42。显示 168.14，+42.61（+33.94%）。Nov 23 一行：Open 167.04、High 171.50、Low 156.93、Close 168.30、Volume 433,323,505。Close 168.30 是盘中暂记。已收盘行：Nov 20 125.53；Nov 19 145.98；Nov 18 150.96；Nov 17 155.46；Nov 16 156.14；Nov 13 162.85；Nov 12 166.19；Nov 11 173.73。来源是 Yahoo 历史表，不是本轮新开的英伟达 IR |
+
+## B. 由 A21、A22 计算
+
+| 编号 | 计算 | 结果 |
+| --- | --- | --- |
+| B3 | (167.87−125.53)/125.53 | 42.34/125.53 ≈ +33.73%，与 A21 页面百分比一致 |
+| B4 | (167.87−173.73)/173.73 | ≈ −3.37%。173.73 只取 A22 的 Nov 11 收盘，不发明其他日期的收盘价 |
+| B5 | 11:12:12 AM EST 与 11:12:42 AM EST 加 13 小时 | 北京时间 2026-11-24 00:12:12 与 00:12:42。页面时区按 EST（UTC−5）理解 |
+
+没有把 168.30 或 168.14 写成官方收盘，也没有把成交量换算成市值。
+
+## C. 时间线原帖
+
+事件以 A18–A20 为准。帖文不单独把复职或涨幅升级。
+
+| 编号 | 材料 | 地址 | 用到的内容 | 限制 |
+| --- | --- | --- | --- | --- |
+| C9 | `@nvidianewsroom` 官方帖 | 时间线多处引用，链到 A18 | 正文即董事会恢复职务 | 事件等级看 A18–A20，不看转发次数 |
+| C10 | `@komereji12` | https://x.com/komereji12/status/2124868224227348849 、 https://x.com/komereji12/status/2124869801978060874 | 2026-11-23 22:10 与 22:16 北京时间。称全票复职、盘前涨了近 30% | 「近 30%」不是精确官方数 |
+| C11 | `@noahduck283` | https://x.com/noahduck283/status/2124880905324179556 | 23:01 北京时间。称翻了证监会公告：22 日全票，对坦诚和能力满意，并收到美国政府高层意见 | 这些点与 A18–A20 相符。帖文本身仍是转述 |
+| C12 | `@BiteyeCN` | https://x.com/BiteyeCN/status/2124882514892517793 | 称开盘跳涨 32%、市值增加超 1 万亿美元 | 本轮未用官方市值计算器或开盘竞价逐笔核对。不编市值 |
+
+## D. 本段仍未打开或未使用
+
+- 2026-11-23 常规交易结束后的官方收盘价。A21 打开时页面仍是 Market Open
+- 英伟达本轮的股息公告原文。0.25 美元和 Dec. 2, 2026 只来自 A21
+- 开盘竞价逐笔，以及任何市值计算器。不把 C12 的「超 1 万亿美元」写成事实
+- `@williamlab` / `@python_xxt`「如果这个是真的我会 all in 做空半导体指数」的配图。图未转写，内容未知，不分析
+- 11-11 以外、A22 未列出的收盘价。不补造

@@ -47,6 +47,8 @@
 
 只加指向，不改上文账户、费率和胜率结论。[WrongBy1Degree 邻档温度](../polymarket-wrongby1degree-adjacent-temp/README.md) 是另一个账户。本文件的三份地址、三张统计表和两笔交易哈希都不纳入那篇。
 
+2026-11-24 再加一条指向，仍不改上文结论：[天气多模型价值投注](../../../investment/2026/chenke-polymarket-weather-multimodel-valuebet/README.md) 用多个预报模型对市场价格，作者和账户都不同。
+
 ## 方法/限制
 - 三账户各最新20行activity，共60行；两笔买入以PolygonScan交叉核对，并非全量链上审计。
 - 三份max/1d曲线用相邻最近日网格点做窗口差分；正文明确起止北京时间。不用本地JSON路径充当公开证据。

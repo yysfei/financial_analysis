@@ -46,6 +46,7 @@
 
 - [天气市场](../polymarket-weather-markets/README.md)：高价买 NO 与机场站口径。账户不同，结论不改，收益不相加
 - [mo-money 完整集合](../polymarket-mo-money-complete-set/README.md)：YES+NO 小于 1。不把本账户并入那篇
+- [天气多模型价值投注](../../../investment/2026/chenke-polymarket-weather-multimodel-valuebet/README.md)：2026-11-24 追加的指向。另一账户，用多个预报模型对市场价格。本篇原结论不改
 
 ## 明确不做的换算
 

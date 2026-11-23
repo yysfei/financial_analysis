@@ -44,6 +44,8 @@
 
 上表前八行仍是此前的八篇深度报告。第九行是 [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md)。第十行是 [Fusionist ACE 跨链桥 relabel 后的跨市场价差](2026/fusionist-ace-bridge-dislocation/README.md)，案例在 2026-11-22，策略类型是攻击后的一次性跨链/跨场所结构破裂，不是可重复无风险套利。第十一行是 [WrongBy1Degree 邻档温度](2026/polymarket-wrongby1degree-adjacent-temp/README.md)，案例帖在 2026-11-23，策略类型是天气方向和邻档定价，不是锁定收益的完整集合套利，与天气市场报告交叉链接、不合并。mo-money 一行在 2026-11-23 追加了另一地址 @bosona，不新开目录。跨策略对照和自动化边界在 [跨策略风险与 Bot 架构评估](2026/cross-strategy-risk-and-bot-architecture/README.md)。它不新增行情或回测，只转述这八篇和下面的分拣记录。
 
+2026-11-24 投资分类另有 [天气多模型价值投注](../investment/2026/chenke-polymarket-weather-multimodel-valuebet/README.md)。它与本索引里的天气市场、WrongBy1Degree、AI V2 机制不同，不并入上面的套利结论，也不改这三篇的原结论。
+
 2026-11-20 的 24 条链接、23 个独立帖的去重索引在 [batch-2026-11-20-triage](2026/batch-2026-11-20-triage/README.md)。其中的 [廉价 YES 钱包核验](2026/batch-2026-11-20-triage/c7-cheap-yes-wallet-check.md) 使用完整地址 `0x6e1d5040d0ac73709b0621f620d2a60b80d2d0fa`。CasaVerilla 提到的另一个完整集合钱包写在 mo-money 报告末尾，不单独开案。
 
 当前归档日：2026-11-23 Asia/Shanghai。本索引只在人工提交时改写。
