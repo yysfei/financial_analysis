@@ -10,6 +10,8 @@
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-23 | WrongBy1Degree 官方页累计 PnL 为 +$33.4K，账户真实，但这是天气邻档方向投注，不是无风险套利。公开持仓同时有 YES 和 NO。原帖的 11 月命中率、盈利日和天气榜第一本次未验证。Rivo 样本远小于官方市场数，不能拿来替代官方盈亏。带推荐链接，不应跟单或自动下单 | [WrongBy1Degree 邻档温度](2026/polymarket-wrongby1degree-adjacent-temp/README.md) |
+| 2026-11-23 | 既有结论不变：YES+NO 小于 1 不是净利充分条件，平台累计盈亏不能自动等于锁定套利。新增：宣传样本 @bosona 是另一地址，官方页累计约 +$51.5 万可核对，但不能证明收益全部来自同时买入 YES+NO；公开持仓和第三方画像更像带库存的做市 | [mo-money 完整集合](2026/polymarket-mo-money-complete-set/README.md) |
 | 2026-11-23 | 2026-11-22 桥接铸币和随后的跨市场搬砖有公开报道交叉核对；The Block 追查到的例子是约 40 美元买入、约 17,670 美元卖出，不是「60 美元本金」的精确账本。桥储备当日已被搬空，存在回滚和合规风险，这不是可重复套利，不应参与或自动下单 | [Fusionist ACE 跨链桥 relabel 后的跨市场价差](2026/fusionist-ace-bridge-dislocation/README.md) |
 | 2026-11-22 | 既有结论不变：不是可执行套利，深度极薄，价差超过 11%，不能把显示折价写成已锁定净利。新增：Kraken 官方称成交保留、未发现入侵；转述帖仍是同一张订单簿，「1.7 万美元」不是新的更低价 | [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md) |
 | 2026-11-22 | 既有结论不变：不是无风险套利，不能把钱包收益归因到所宣传规则。新增 @irongiantXBT 宣传的钱包真实，但公开持仓是月度方向性价位盘而非 5 分钟涨跌，配视频为 PAPER 动画，不能作为该规则的业绩证明 | [五分钟 BTC](2026/polymarket-5m-btc-microstructure/README.md) |
@@ -17,7 +19,6 @@
 | 2026-11-20 | 天气账户经济口径为正，高价 NO 的胜率不是锁定收益；三段视频没有逐帧复核 | [天气市场](2026/polymarket-weather-markets/README.md) |
 | 2026-11-20 | AI V2 是方向性价值投注；没有公开钱包、源码或样本外成绩 | [AI V2 价值投注](2026/polymarket-ai-v2-value-betting/README.md) |
 | 2026-11-20 | 24 条链接收成 23 个独立帖；廉价 YES 完整地址已映射，100 笔买入中有 31 笔 NO | [2026-11-20 去重索引](2026/batch-2026-11-20-triage/README.md) |
-| 2026-11-20 | YES+NO 小于 1 不是净利充分条件；附录钱包不与 mo-money 合并收益 | [mo-money 完整集合](2026/polymarket-mo-money-complete-set/README.md) |
 | 2026-11-20 | 视频金额是 133.70 到 14,880.00 美元，与正文 68 到 75 万美元不一致 | [xmglia / FOMO](2026/xmglia-fomo-ai-arbitrage-claims/README.md) |
 | 2026-11-20 | 回测图按 5 年无追加资金折算约 6.56%，不是标题 12% | [foodloss / EA](2026/foodloss-ai-trading-desk-ea-backtest/README.md) |
 | 2026-11-20 | 胜率、夏普和纸面周收益均为作者自述，没有可复现账本 | [强化学习择时](2026/polymarket-rl-timing-claims/README.md) |
@@ -30,17 +31,18 @@
 | 案例时间（UTC） | 链 | 策略类型 | 研究状态 | 报告 |
 | --- | --- | --- | --- | --- |
 | 2025-03-02 17:02:47 | Ethereum mainnet | 同链单笔原子多池循环 | 历史执行已复核。场所数、币种数和原帖美元估值未独立复点。没有 2026 年池状态模拟 | [区块 21960556](2025/eth-21960556-multipool-atomic/README.md) |
-| 2026-11-19 09:44:38 | Polygon 上的 Polymarket 账户；完整集合结算不限于单笔 | 二元完整集合。价差不是净利的充分条件 | 机制与四笔链上样本已复核。文末附录另有钱包 `0xfcda…eecc`，不与 mo-money 合并收益 | [mo-money 完整集合](2026/polymarket-mo-money-complete-set/README.md) |
+| 2026-11-19 09:44:38 | Polygon 上的 Polymarket 账户；完整集合结算不限于单笔 | 二元完整集合。价差不是净利的充分条件 | 机制与四笔链上样本已复核。文末附录另有钱包 `0xfcda…eecc`，不与 mo-money 合并收益。2026-11-23 追加宣传样本 @bosona（另一地址）：官方页累计约 +$51.5 万可核对，但不能证明收益全部来自同时买入 YES+NO；公开持仓和第三方画像更像带库存的做市 | [mo-money 完整集合](2026/polymarket-mo-money-complete-set/README.md) |
 | 2026-11-19 07:19:12 | 未给出结算链上的单笔 | 方向性强化学习择时。不是已证明的无风险套利 | 业绩数字均为作者自述。无钱包、代码、市场 ID 或可复现训练记录 | [强化学习择时自述](2026/polymarket-rl-timing-claims/README.md) |
 | 2026-11-19 08:51:45 | 未给出可核验的链、钱包或交易 | 宣传为价差套利。可读材料混合信号、方向性交易和开发提示词 | 两段动态视频已对照。画面金额与正文 68 / 75 万不一致。没有可核验账本。FOMO 自动化授权仍是阻塞项 | [xmglia / FOMO](2026/xmglia-fomo-ai-arbitrage-claims/README.md) |
 | 2026-11-19 15:59:57 | 未给出链上交易。回测图来自 MetaTrader | 量化系统需求提示词，加上未公开规则的 EA 历史回测宣传 | 截图字段已复核。按 5 年无追加资金的条件算术约为 6.56%，不是标题 12% | [foodloss / EA](2026/foodloss-ai-trading-desk-ea-backtest/README.md) |
 | 2026-11-15 15:21:41 | 未给出钱包或成交。样本规则指向 Binance BTC 日线收盘 | 事件价值投注和尾部彩票。不是无风险套利 | 文章可读。没有公开源码、钱包和样本外成绩。没有附带视频 | [AI V2 价值投注](2026/polymarket-ai-v2-value-betting/README.md) |
-| 报告未单列原帖 UTC。统计观察在 2026-11-19 至 2026-11-20 | Polygon 上的三个 Polymarket 天气账户 | 按站点规则买天气结果。高胜率不是锁定收益 | 三个账户的经济口径为正。宣传的胜率、周收益和“只买高价 NO”没有被样本证实。三段视频未逐帧复核 | [天气市场](2026/polymarket-weather-markets/README.md) |
+| 报告未单列原帖 UTC。统计观察在 2026-11-19 至 2026-11-20 | Polygon 上的三个 Polymarket 天气账户 | 按站点规则买天气结果。高胜率不是锁定收益 | 三个账户的经济口径为正。宣传的胜率、周收益和“只买高价 NO”没有被样本证实。三段视频未逐帧复核。2026-11-23 文末交叉链接邻档温度报告，不改本行结论、不合并账户 | [天气市场](2026/polymarket-weather-markets/README.md) |
 | 公开读取 2026-11-20 02:41–02:44；2026-11-22 补充读取约 00:13–04:40 | Polygon 上的 BTC 五分钟和近到期市场 | 延迟、弱势侧、动量和尾盘微观结构。不是无风险套利 | 两个宣传指向同一钱包。结算样本写的是 Chainlink TWAP，不是 Binance 现货。视频未逐帧审查。2026-11-22 补充：@irongiantXBT 宣传的钱包真实，但公开持仓是月度方向性价位盘而非 5 分钟涨跌，配视频为 PAPER 动画，不能作为该规则的业绩证明，也不能把该钱包收益归因到所宣传规则 | [五分钟 BTC](2026/polymarket-5m-btc-microstructure/README.md) |
 | 2026-11-21 09:16:43（Asia/Shanghai 17:16:43）；官方帖 2026-11-21 11:12:15 UTC | Kraken 现货（BTC/CAD，对照 BTC/USD） | 中心化交易所跨计价货币的盘口错位 | 显示折价可核验，但价差和深度不支持可执行套利。2026-11-22 追加：官方称成交保留、未发现入侵；这不证明能按最低价买到并提币。转述帖不是新盘口 | [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md) |
 | 2026-11-22 美国东部时间下午（The Block 举例约 13:41–13:53 ET）；转述帖 2026-11-23 03:52:07 UTC | BNB Smart Chain 上的 ACE、Fusionist Endurance 桥，以及报道提到的中心化交易所 | 攻击发生后的跨链/跨场所搬砖。一次性结构破裂，不是可重复的无风险套利 | 公开报道交叉核对。The Block 追查的例子是约 40 美元买入、约 17,670 美元卖出，不是「60 美元本金」的精确账本。桥储备当日已被搬空，存在回滚和合规风险，不应参与或自动下单 | [Fusionist ACE 跨链桥 relabel 后的跨市场价差](2026/fusionist-ace-bridge-dislocation/README.md) |
+| 2026-11-23 06:26:02 UTC（Asia/Shanghai 14:26:02） | Polymarket 天气市场。本轮只打开公开主页，没有打开该账户的链上交易哈希 | 方向性邻档温度定价。不是锁定收益的完整集合套利 | 官方主页累计 PnL 为 +$33.4K。公开持仓同时有 YES 与 NO。原帖命中率、11 月盈利日和天气榜名次未验证。与天气市场报告交叉链接，不合并 | [WrongBy1Degree 邻档温度](2026/polymarket-wrongby1degree-adjacent-temp/README.md) |
 
-上表前八行仍是此前的八篇深度报告。第九行是 [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md)。第十行是 [Fusionist ACE 跨链桥 relabel 后的跨市场价差](2026/fusionist-ace-bridge-dislocation/README.md)，案例在 2026-11-22，策略类型是攻击后的一次性跨链/跨场所结构破裂，不是可重复无风险套利。跨策略对照和自动化边界在 [跨策略风险与 Bot 架构评估](2026/cross-strategy-risk-and-bot-architecture/README.md)。它不新增行情或回测，只转述这八篇和下面的分拣记录。
+上表前八行仍是此前的八篇深度报告。第九行是 [Kraken BTC/CAD 盘口折价](2026/kraken-btc-cad-dislocation/README.md)。第十行是 [Fusionist ACE 跨链桥 relabel 后的跨市场价差](2026/fusionist-ace-bridge-dislocation/README.md)，案例在 2026-11-22，策略类型是攻击后的一次性跨链/跨场所结构破裂，不是可重复无风险套利。第十一行是 [WrongBy1Degree 邻档温度](2026/polymarket-wrongby1degree-adjacent-temp/README.md)，案例帖在 2026-11-23，策略类型是天气方向和邻档定价，不是锁定收益的完整集合套利，与天气市场报告交叉链接、不合并。mo-money 一行在 2026-11-23 追加了另一地址 @bosona，不新开目录。跨策略对照和自动化边界在 [跨策略风险与 Bot 架构评估](2026/cross-strategy-risk-and-bot-architecture/README.md)。它不新增行情或回测，只转述这八篇和下面的分拣记录。
 
 2026-11-20 的 24 条链接、23 个独立帖的去重索引在 [batch-2026-11-20-triage](2026/batch-2026-11-20-triage/README.md)。其中的 [廉价 YES 钱包核验](2026/batch-2026-11-20-triage/c7-cheap-yes-wallet-check.md) 使用完整地址 `0x6e1d5040d0ac73709b0621f620d2a60b80d2d0fa`。CasaVerilla 提到的另一个完整集合钱包写在 mo-money 报告末尾，不单独开案。
 

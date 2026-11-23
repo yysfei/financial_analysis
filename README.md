@@ -9,6 +9,11 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-23 | Auto-Quant 是把 autoresearch 接到 FreqTrade 的受监督研究循环。官方成功标准是跑出可解释的 results.tsv，不是找到可盈利策略，并写明不是实盘建议。仓库自述的 Sharpe 本轮没有独立复跑。这是投研工具，不是套利，也不应自动下单 | [Auto-Quant 研究循环](reports/investment/2026/traderalice-auto-quant-loop/README.md) |
+| 2026-11-23 | 熊市 Meme 跌 70%–90% 后再按五项主观标准低吸，有可讨论的逆向逻辑，但没有公开回测和可核对钱包，多数暴跌币可能归零。文末是 GMGN 邀请链。这不是已验证系统，也不是套利，规则补全前不适合自动下单 | [熊市 Meme 低吸复利](reports/investment/2026/linda-meme-bear-dip-compound/README.md) |
+| 2026-11-23 | 既有结论不变：周五 NVDA 收盘 125.53 美元可核对，125 美元不是已验证安全抄底，不能自动下单；贝森特「Jensen is on the outside now / 要看责任止于何处」不改写。新增：The National 与 Fox Business 引特朗普希望董事会请回黄仁勋，并称董事会主席已拒绝。没有新的官方收盘价，总统表态不是交易信号 | [NVDA 125 美元抄底与 ARK 减持](reports/investment/2026/komereji-mmoptions-nvda-125-dip-ark/README.md) |
+| 2026-11-23 | WrongBy1Degree 官方页累计 PnL 为 +$33.4K，账户真实，但这是天气邻档方向投注，不是无风险套利。公开持仓同时有 YES 和 NO。原帖的 11 月命中率、盈利日和天气榜第一本次未验证。Rivo 样本远小于官方市场数，不能拿来替代官方盈亏。带推荐链接，不应跟单或自动下单 | [WrongBy1Degree 邻档温度](reports/arbitrage/2026/polymarket-wrongby1degree-adjacent-temp/README.md) |
+| 2026-11-23 | 既有结论不变：YES+NO 小于 1 不是净利充分条件，平台累计盈亏不能自动等于锁定套利。新增：宣传样本 @bosona 是另一地址，官方页累计约 +$51.5 万可核对，但不能证明收益全部来自同时买入 YES+NO；公开持仓和第三方画像更像带库存的做市 | [mo-money 完整集合](reports/arbitrage/2026/polymarket-mo-money-complete-set/README.md) |
 | 2026-11-23 | 仓库是 MIT 许可的 TradingView 指标，规则公开，并声明不下单、没有回测成绩。这是开盘首小时的方向性框架，不是已验证交易系统，也不应让 Grok Bot 自动下单 | [开盘首小时「两根K线定方向」回踩指标](reports/investment/2026/waveking-coil-reclaim-opening-hour/README.md) |
 | 2026-11-23 | 2026-11-22 桥接铸币和随后的跨市场搬砖有公开报道交叉核对；The Block 追查到的例子是约 40 美元买入、约 17,670 美元卖出，不是「60 美元本金」的精确账本。桥储备当日已被搬空，存在回滚和合规风险，这不是可重复套利，不应参与或自动下单 | [Fusionist ACE 跨链桥 relabel 后的跨市场价差](reports/arbitrage/2026/fusionist-ace-bridge-dislocation/README.md) |
 | 2026-11-23 | 摩根大通 11 月 20 日把行业生产成本中枢估在约 8.6 万美元，周五价格跌破 6 万美元、MARA 卖出 13,597 枚（约占 9 月 30 日持仓 40%）可核对。生产成本不是自动底部，「等最后一批矿机关机」只是推论，不能自动抄底 | [比特币「生产成本 8.6 万美元、市价约 6 万美元」与矿工卖币](reports/investment/2026/kkawsb-btc-miner-cost-gap/README.md) |
@@ -20,7 +25,6 @@ Financial Analysis
 | 2026-11-23 | 美债总额和付息压力可核对，但加息路径被夸大，主席讲话的情景分析被改写为刺泡承诺，全球收割没有证据。这是宏观叙事核验，不是交易策略 | [美联储加息与美元潮汐叙事](reports/research/2026/leelee-fed-dollar-tide/README.md) |
 | 2026-11-23 | 部分交易所欧元 SEPA 充值确实暂停，但 KuCoin 明确提现及其他支付方式仍可用；没有银行名、文件或监管通报证明欧洲主流银行无差别封杀或全球出入金关闭。谨慎保留的限制：其他平台帮助页不是实际到账测试；机构托管上线也不直接证明零售出入金可用，不能拿其夸大反证。这是金融传闻核验，不是套利，也不是可执行策略 | [小电欧洲银行法币通道传闻](reports/research/2026/xiaodian-eu-bank-fiat-rails/README.md) |
 | 2026-11-23 | 官方文档确认 Grok Bot 可接 Bitget 云端 MCP，独立账户且下单前确认；这只是执行层，不创造交易优势。原文与 Bitget 合作并带邀请码，标的是代币化美股而非股票直连。本研究未授权、未下单，不应无人值守交易 | [Bitget Agenthub MCP](reports/investment/2026/waveking-bitget-agenthub-mcp/README.md) |
-| 2026-11-23 | 周五 NVDA 收盘 125.53 美元可核对，但「近两年任意买入几乎全亏」不成立，也不能证明 125 美元是安全抄底。黄仁勋辞职与董事会不拟恢复其职务的既有结论不变。贝森特 11 月 22 日 CBS 采访原话是 “Jensen is on the outside now”，并称要看责任止于何处，不能把这句改写成「回归已成定局」或财富密码。没有退出规则，不能自动下单 | [NVDA 125 美元抄底与 ARK 减持](reports/investment/2026/komereji-mmoptions-nvda-125-dip-ark/README.md) |
 | 2026-11-23 | VRT / CEG / VST 的多项官方财报、合同和周五跌幅可核对；亚马逊 20 年协议含 690MW（其中约 190MW 为新增），谷歌协议支持 890MW 新增核电。这是方向性板块观点，没有进出场规则，不能视为已验证机会 | [AI 电力与基础设施：VRT / CEG / VST](reports/investment/2026/python-xxt-ai-power-infra/README.md) |
 | 2026-11-23 | 作者称 VIX 多空 +22.32%、A 股增强 +9.77% 为实盘，但规则未公开、成绩无法独立核对；所列标普 +5.61% 与 11 月 20 日收盘后约 +0.8% 至 +0.9% 的公开口径不一致。这是带俱乐部推广的绩效展示，不是可执行交易系统 | [VIX 多空与 A 股指数增强周报](reports/investment/2026/amy6tina-vix-ls-index-enhance/README.md) |
 | 2026-11-23 | 中国融资保证金 100% 降至 80% 由上交所公告确认，但 11 月 30 日才生效，周一开盘并不适用。台湾金管会限空措施 11 月 23 日起生效，财政部称国安基金已进场但未公布金额。韩国是约 10.76 万亿韩元稳定基金准备启动、并非已经买入。「黑色星期一能躲过」只是推论 | [周末亚洲稳市措施](reports/investment/2026/oragnes-asia-weekend-stabilization/README.md) |
@@ -43,7 +47,6 @@ Financial Analysis
 | 2026-11-20 | 三个天气账户经济口径为正，但高价 NO 的高胜率不是锁定收益；三段视频没有逐帧复核 | [天气市场](reports/arbitrage/2026/polymarket-weather-markets/README.md) |
 | 2026-11-20 | AI V2 是方向性价值投注，不是无风险套利；没有公开钱包、源码或样本外成绩 | [AI V2 价值投注](reports/arbitrage/2026/polymarket-ai-v2-value-betting/README.md) |
 | 2026-11-20 | 24 条链接收成 23 个独立帖；廉价 YES 的完整地址是 `0x6e1d5040d0ac73709b0621f620d2a60b80d2d0fa`，100 笔买入里有 31 笔 NO | [2026-11-20 去重索引](reports/arbitrage/2026/batch-2026-11-20-triage/README.md) |
-| 2026-11-20 | YES+NO 小于 1 不是净利的充分条件；mo-money 与附录钱包 `0xfcda…eecc` 不合并收益 | [mo-money 完整集合](reports/arbitrage/2026/polymarket-mo-money-complete-set/README.md) |
 | 2026-11-20 | 视频看板是 133.70 到 14,880.00 美元，与正文 68 到 75 万美元不一致；FOMO 未授权自动化仍是阻塞项 | [xmglia / FOMO](reports/arbitrage/2026/xmglia-fomo-ai-arbitrage-claims/README.md) |
 | 2026-11-20 | 回测图按连续 5 年、无追加资金折算，复合年化约 6.56%，不是标题上的 12% | [foodloss / EA](reports/arbitrage/2026/foodloss-ai-trading-desk-ea-backtest/README.md) |
 | 2026-11-20 | 67% 胜率、夏普 2.3 和 2,847 美元纸面周收益都是作者自述，没有钱包、代码或市场 ID | [强化学习择时](reports/arbitrage/2026/polymarket-rl-timing-claims/README.md) |

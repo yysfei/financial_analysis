@@ -75,3 +75,17 @@ Q=100、价格 0.48 与 0.49、两腿都按 taker 计费，是假设例子，不
 | 活动 | [最新 100 条](https://data-api.polymarket.com/v2/activity?user=0xfcda969d818f49fb945b889275405f929221eecc&limit=100) | 抽样是 BTC 五分钟盘，不是全历史 |
 | 字段说明 | [v2 OpenAPI](https://data-api.polymarket.com/v2/openapi.json) | 口径说明 |
 | 费用 | [现行费用](https://docs.polymarket.com/trading/fees)、[费改公告](https://docs.polymarket.com/programs/fee-and-rebate-changes-november-2026) | 48¢+49¢ 的全成本是条件算术，不是 11 月 4 日的逐笔重算 |
+
+## 2026-11-23 追加：@bosona 与再次打开的 @mo-money
+
+下列材料不替换 11-20 的接口快照，也不与 mo-money 或附录钱包的盈亏相加。主页是北京时间 2026-11-23 约 16:16 之后的同一下午打开的。扫描窗口是当日 12:09:08–16:17:04。
+
+| 材料 | 链接 | 本次边界 |
+| --- | --- | --- |
+| 新帖 | https://x.com/linda6248130564/status/2124738278385758624 | 北京时间 2026-11-23 13:34:15。声称前精算师 5 月辞职、6 个月盈利 50 多万美金、114235 个市场、总成交量 3130 万美金、单笔最高 2799 美金，并承认滑点和成交延迟。职业身份无法核实。不与 Ryan Noel 的跨平台体育套利叙事合并 |
+| 带推荐参数的主页 | https://polymarket.com/@bosona?via=k3H86f8 | 推荐参数 `via=k3H86f8` 只记为利益冲突。同一作者其他帖另有 https://gmgn.ai/r/tx168 。不证明佣金到账 |
+| 本次打开的 @bosona | https://polymarket.com/@bosona | Joined May 2026；Positions Value $400.48；Biggest Win $2,799.93；Markets Traded 116,148；Total PnL +$514.9K；Total Volume 32.4M。公开持仓快照以 BTC、ETH 等短时涨跌盘为主，可见单边。不能证明每一笔都是同时锁定的完整集合 |
+| 同日再次打开的 @mo-money | https://polymarket.com/@mo-money | Joined Aug 2025；Positions Value $786.67；Biggest Win $2,719.58；Markets Traded 116,059；Total PnL +$618.4K；Total Volume 33.6M。已归档代理地址仍是 `0x32ed2e546b187ca15e2841edc82b22c713cf8ec3`。同一「Bitcoin Up or Down - November 23, 3:15AM-3:20AM ET」同时有 Down 752.1 份（约 76.1¢）和 Up 321.8 份（约 7.4¢），份数不对齐 |
+| Blacklight | https://blacklight.observer/pm/bosona | 等级 C。地址 `0xc2ad03f79ca3f3c17d8c7de2612ce0c89b7d40ed` 来自该页，不是官方主页上直接读到的 0x。称 style MERGE-MM，Lifetime P&L $512k，Volume $32.5M，edge 1.58%，66% 的市场两侧都持有，当前持仓 100% 来自公开 feed 未显示的成交。不是链上逐笔复原。与官方 +$514.9K 接近但不同 |
+
+未在本轮取得：bosona 的全历史成交、队列位置的原始数据、精算师从业记录，以及 mo-money 新持仓之外的完整库存批次。不把 76.1¢ 与 7.4¢ 相加。

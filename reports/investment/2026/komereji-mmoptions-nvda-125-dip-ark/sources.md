@@ -90,3 +90,21 @@
 ## D. 本轮仍未打开
 
 - 《华尔街日报》《金融时报》《纽约时报》对供应链以及李明、Megaspeed、Novagate 等的报道原文。@oragnes 帖的后半段提到这些材料，本轮不把它们写成已核对事实。
+
+# 2026-11-23 再追加来源：特朗普希望请回黄仁勋
+
+以下条目继续追加，不删除前面的来源表。时间线扫描覆盖北京时间 2026-11-23 12:09:08–16:17:04。两篇报道是此后同一下午打开的。引文等级 A 指文章页面上的文字，不是 Truth Social 原帖。
+
+## A. 文章页面上的引文
+
+| 编号 | 材料 | 地址 | 用到的内容 |
+| --- | --- | --- | --- |
+| A15 | `@komereji12` 时间线帖 | https://x.com/komereji12/status/2124753906781532278 | 2026-11-23 14:36:22 Asia/Shanghai。称夜盘冲高回落后，特朗普希望英伟达重新聘请黄仁勋，对公司和美国都最好，市场又拉起；作者仍认为短期内回归概率不大。夜盘价格未另开行情页 |
+| A16 | The National，2026-11-23 | 固定 URL 未保留，不补造 | 页上 Updated: November 23, 2026, 6:07 AM。时区未在正文单独标明，不换算成北京时间后写成官方发布时间。引文：“I hope the board of Nvidia rehires Jensen Huang. It would be the best thing for the company, and also, for the USA.” 并称董事会主席已明确拒绝重新聘用 |
+| A17 | Fox Business | 固定 URL 未保留，不补造 | Published November 23, 2026 2:48am EST，即北京时间 2026-11-23 15:48。引文：“I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A.” 称董事会主席 Harvey Jones 在上周财报电话会上表明黄仁勋不会重任 CEO。另写特朗普周五对记者说希望他 “make a big apology and go back.” |
+
+## D. 本段仍未打开
+
+- 特朗普 Truth Social 原帖
+- 英伟达财报电话会逐字稿
+- 2026-11-23 的 NVDA 官方收盘价、夜盘或盘前成交价。没有这些价格，就不改 11-20 的 125.53 美元
