@@ -9,6 +9,10 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-23 | 仓库是 MIT 许可的 TradingView 指标，规则公开，并声明不下单、没有回测成绩。这是开盘首小时的方向性框架，不是已验证交易系统，也不应让 Grok Bot 自动下单 | [开盘首小时「两根K线定方向」回踩指标](reports/investment/2026/waveking-coil-reclaim-opening-hour/README.md) |
+| 2026-11-23 | 2026-11-22 桥接铸币和随后的跨市场搬砖有公开报道交叉核对；The Block 追查到的例子是约 40 美元买入、约 17,670 美元卖出，不是「60 美元本金」的精确账本。桥储备当日已被搬空，存在回滚和合规风险，这不是可重复套利，不应参与或自动下单 | [Fusionist ACE 跨链桥 relabel 后的跨市场价差](reports/arbitrage/2026/fusionist-ace-bridge-dislocation/README.md) |
+| 2026-11-23 | 摩根大通 11 月 20 日把行业生产成本中枢估在约 8.6 万美元，周五价格跌破 6 万美元、MARA 卖出 13,597 枚（约占 9 月 30 日持仓 40%）可核对。生产成本不是自动底部，「等最后一批矿机关机」只是推论，不能自动抄底 | [比特币「生产成本 8.6 万美元、市价约 6 万美元」与矿工卖币](reports/investment/2026/kkawsb-btc-miner-cost-gap/README.md) |
+| 2026-11-23 | 纳斯达克与 NYSE Arca 计划于 2026-12-06 增加美东 21:00–04:00 夜盘、以限价单为主，使交易日接近 23 小时。这是市场结构变化，不是交易策略；原帖所引浑水「赌场」原话本轮未独立核到 | [纳斯达克与 NYSE Arca 的 23/5 夜盘（2026-12-06）](reports/research/2026/nasdaq-nyse-arca-23-5-trading/README.md) |
 | 2026-11-23 | 对多数没有信息优势的个人，用低费率宽基指数、短期国债或现金、黄金或商品做分散配置并再平衡，是说得通的长期思路，但原文没有权重和产品，不能写成唯一数学最优解，也不能自动下单。牛顿「亏损两万英镑」和文中个股亏损案例本轮均未核成确定事实 | [跨资产低费率被动配置的“哑铃”思路](reports/investment/2026/python-xxt-barbell-passive-allocation/README.md) |
 | 2026-11-23 | 官方仓库是 Apache 2.0 回测引擎和 51 个教学示例，自己写明不是实盘系统、不是投资建议、不保证样本外有效。托管页 2026-07-11 批次中，45 份绩效表有 7 个总收益为负、19 个夏普≤0、没有夏普≥1；原帖「全部盈利、用 Grok Bot 几分钟接入实盘」与官方说明和演示视频不符。这是投研工具，不能自动下单 | [QuantJourney 开源回测库](reports/investment/2026/irongiant-quantjourney-bt-library/README.md) |
 | 2026-11-23 | 特朗普 11 月 20 日公开催降息有多家媒体引述，但未直接观看发布会录像；美联储公开文件未支持中国即将爆雷或高利率意在逼中国承压。公开文件无证据不等于证明内部绝无讨论。与美元潮汐报告交叉链接，不合并。这是宏观叙事核验，不是交易策略 | [白宫催降息与逼中国承压](reports/research/2026/wangyun-whitehouse-fed-china/README.md) |
@@ -16,7 +20,7 @@ Financial Analysis
 | 2026-11-23 | 美债总额和付息压力可核对，但加息路径被夸大，主席讲话的情景分析被改写为刺泡承诺，全球收割没有证据。这是宏观叙事核验，不是交易策略 | [美联储加息与美元潮汐叙事](reports/research/2026/leelee-fed-dollar-tide/README.md) |
 | 2026-11-23 | 部分交易所欧元 SEPA 充值确实暂停，但 KuCoin 明确提现及其他支付方式仍可用；没有银行名、文件或监管通报证明欧洲主流银行无差别封杀或全球出入金关闭。谨慎保留的限制：其他平台帮助页不是实际到账测试；机构托管上线也不直接证明零售出入金可用，不能拿其夸大反证。这是金融传闻核验，不是套利，也不是可执行策略 | [小电欧洲银行法币通道传闻](reports/research/2026/xiaodian-eu-bank-fiat-rails/README.md) |
 | 2026-11-23 | 官方文档确认 Grok Bot 可接 Bitget 云端 MCP，独立账户且下单前确认；这只是执行层，不创造交易优势。原文与 Bitget 合作并带邀请码，标的是代币化美股而非股票直连。本研究未授权、未下单，不应无人值守交易 | [Bitget Agenthub MCP](reports/investment/2026/waveking-bitget-agenthub-mcp/README.md) |
-| 2026-11-23 | 周五 NVDA 收盘 125.53 美元可核对，但「近两年任意买入几乎全亏」不成立，也不能证明 125 美元是安全抄底。同一作者约六小时后转向强调：黄仁勋已辞职是官方事实，只看市盈率和算力需求可能在下跌中被套；Anthropic 确有 Google/AMD 计算安排，但仍同时使用英伟达。没有退出规则，不能自动下单 | [NVDA 125 美元抄底与 ARK 减持](reports/investment/2026/komereji-mmoptions-nvda-125-dip-ark/README.md) |
+| 2026-11-23 | 周五 NVDA 收盘 125.53 美元可核对，但「近两年任意买入几乎全亏」不成立，也不能证明 125 美元是安全抄底。黄仁勋辞职与董事会不拟恢复其职务的既有结论不变。贝森特 11 月 22 日 CBS 采访原话是 “Jensen is on the outside now”，并称要看责任止于何处，不能把这句改写成「回归已成定局」或财富密码。没有退出规则，不能自动下单 | [NVDA 125 美元抄底与 ARK 减持](reports/investment/2026/komereji-mmoptions-nvda-125-dip-ark/README.md) |
 | 2026-11-23 | VRT / CEG / VST 的多项官方财报、合同和周五跌幅可核对；亚马逊 20 年协议含 690MW（其中约 190MW 为新增），谷歌协议支持 890MW 新增核电。这是方向性板块观点，没有进出场规则，不能视为已验证机会 | [AI 电力与基础设施：VRT / CEG / VST](reports/investment/2026/python-xxt-ai-power-infra/README.md) |
 | 2026-11-23 | 作者称 VIX 多空 +22.32%、A 股增强 +9.77% 为实盘，但规则未公开、成绩无法独立核对；所列标普 +5.61% 与 11 月 20 日收盘后约 +0.8% 至 +0.9% 的公开口径不一致。这是带俱乐部推广的绩效展示，不是可执行交易系统 | [VIX 多空与 A 股指数增强周报](reports/investment/2026/amy6tina-vix-ls-index-enhance/README.md) |
 | 2026-11-23 | 中国融资保证金 100% 降至 80% 由上交所公告确认，但 11 月 30 日才生效，周一开盘并不适用。台湾金管会限空措施 11 月 23 日起生效，财政部称国安基金已进场但未公布金额。韩国是约 10.76 万亿韩元稳定基金准备启动、并非已经买入。「黑色星期一能躲过」只是推论 | [周末亚洲稳市措施](reports/investment/2026/oragnes-asia-weekend-stabilization/README.md) |

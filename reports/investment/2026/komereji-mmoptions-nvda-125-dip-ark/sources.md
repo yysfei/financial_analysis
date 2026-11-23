@@ -74,3 +74,19 @@
 - 任何名为「英伟达银行」的官方实体或客户融资合同
 - 2026 年美国中期选举对半导体政策的官方影响评估
 - 2026-11-23 及之后的 NVDA 官方收盘价（写稿时美股尚未开盘）
+
+# 2026-11-23 再追加来源：CBS 文字稿与「回归已成定局」转述
+
+以下条目继续追加，不删除原 A–D 表和上一节增补。访问时间均为 2026-11-23 Asia/Shanghai。
+
+## A. 新增原帖与官方文字稿
+
+| 编号 | 材料 | 地址 | 访问方式 | 用到的字段或内容 |
+| --- | --- | --- | --- | --- |
+| A12 | `@KKaWSB` 转述帖 | https://x.com/KKaWSB/status/2124696491029938535 | 2026-11-23 已读全文 | 2026-11-23 10:48 Asia/Shanghai；把贝森特原话改写成「回归已成定局」「财富密码」 |
+| A13 | `@oragnes` 转述帖 | https://x.com/oragnes/status/2124659608728027621 | 2026-11-23 已读全文 | 2026-11-23 08:21 Asia/Shanghai；称采访没有直接支持回归，并强调先查清出口违规涉及哪一层。后半段报纸细节本轮未打开 |
+| A14 | CBS News：2026-11-22 *Face the Nation* 文字稿 | https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/ | 本轮打开文字稿 | Scott Bessent：`Well, Jensen is on the outside now, so you know.`；`Well, I said they should go to the outside, but he's on the outside now.`；被问是否应回去管理公司时：`I think we have to see where the buck stops.` |
+
+## D. 本轮仍未打开
+
+- 《华尔街日报》《金融时报》《纽约时报》对供应链以及李明、Megaspeed、Novagate 等的报道原文。@oragnes 帖的后半段提到这些材料，本轮不把它们写成已核对事实。
