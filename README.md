@@ -9,6 +9,7 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-24 | 黄仁勋回归后，作者称 A 股反弹已确立，光模块和 PCB 或将批量涨停不宜追，高开则等分歧做物理 AI。纳斯达克周一收盘较 10 月高点回撤 12.72%、NVDA 收涨 31.48% 可核对，但没有代码、仓位和可编码规则，这不是已验证机会，不能自动下单 | [黄仁勋回归后的 A 股反弹与板块轮动](reports/investment/2026/z007-huang-return-ashare-rebound/README.md) |
 | 2026-11-24 | 作者称 8 个 Grok 代理上周净赚 7,185 美元，但只有自我宣传和视频，没有可核对钱包；其 8 月指南写明同一账号下的 Bot 共享一台电脑，与「各自独立浏览器」不符。这不是已验证交易系统，不应连接钱包或自动下单 | [Grok Bot 八代理加密交易台](reports/investment/2026/bober-smart-grokbot-eight-agent-desk/README.md) |
 | 2026-11-24 | 反向并购、Q3 营收 742.7 万美元、RWA 640 万美元和 84% 毛利率可核对，但约 89% 的 Q3 营收是关联方，GAAP 净亏 1,020 万美元，逾 11 亿美元只是非约束性 LOI。0.28 倍 PS 不能证明低估，也不是已验证交易机会，不能自动下单 | [OPNW RWA 微盘股观察](reports/investment/2026/retiredxu-opnw-rwa-microcap-rerate/README.md) |
 | 2026-11-24 | 事件新闻确实存在到达时差，B-PIPE 与 ApeWire 也是真实产品，但本轮未核「彭博独家早于官方」的时戳，也不能证明 ApeWire 直连彭博专线。Quote 上的一键交易面向链上市场，不等于美股 0DTE。这不是已验证优势，不能自动下单 | [0DTE 新闻时差与 ApeWire](reports/investment/2026/mm-options-nvda-0dte-newswire-latency/README.md) |
