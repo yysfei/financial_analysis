@@ -9,6 +9,9 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-24 | 作者把 MIT 18.S096/18.642 公开课的数学包装成 Claude skill `mit-trader`，仓库 README 展示在截至 2026-11-20 的真实数据上 51 条策略全部 REJECTED。课程存在，但不是 MIT 官方产品，也不是已验证交易系统；默认纸面、必须对该笔订单说 yes，不能自动下单 | [一人AI基金、策略工厂与 MIT Trader skill](reports/investment/2026/waveking-ai-prompt-trading-desk/README.md) |
+| 2026-11-24 | 原帖给出「自相关为正且方差比＞1」才做 Polymarket 小时级 BTC 涨跌的规则，可讨论，但窗口未公开。所宣传的 119 天总盈利 259,925 美元与「单日最高 2,184 美元」在算术上互冲（259925÷119≈2184.24），且没有可核对钱包。这不是套利，不应连接钱包或自动下单 | [Polymarket 小时级自相关与方差比](reports/investment/2026/linda-polymarket-hourly-acf-vr/README.md) |
+| 2026-11-24 | 既有结论保留：复职已由 8-K 与新闻稿证实，125 美元不是已验证安全抄底，高开后追买没有新规则。新增：官方 Q3 营收 1,158 亿美元、同比 103%，按直接客户总部计中国（含香港）110.50 亿美元约 9.54%；Q4 指引 1,300 亿美元且不计入中国数据中心计算收入。循环融资和期权暴利传闻不是可执行信号，后者未核证，不能自动下单 | [NVDA 125 美元抄底与 ARK 减持](reports/investment/2026/komereji-mmoptions-nvda-125-dip-ark/README.md) |
 | 2026-11-24 | 黄仁勋回归后，作者称 A 股反弹已确立，光模块和 PCB 或将批量涨停不宜追，高开则等分歧做物理 AI。纳斯达克周一收盘较 10 月高点回撤 12.72%、NVDA 收涨 31.48% 可核对，但没有代码、仓位和可编码规则，这不是已验证机会，不能自动下单 | [黄仁勋回归后的 A 股反弹与板块轮动](reports/investment/2026/z007-huang-return-ashare-rebound/README.md) |
 | 2026-11-24 | 作者称 8 个 Grok 代理上周净赚 7,185 美元，但只有自我宣传和视频，没有可核对钱包；其 8 月指南写明同一账号下的 Bot 共享一台电脑，与「各自独立浏览器」不符。这不是已验证交易系统，不应连接钱包或自动下单 | [Grok Bot 八代理加密交易台](reports/investment/2026/bober-smart-grokbot-eight-agent-desk/README.md) |
 | 2026-11-24 | 反向并购、Q3 营收 742.7 万美元、RWA 640 万美元和 84% 毛利率可核对，但约 89% 的 Q3 营收是关联方，GAAP 净亏 1,020 万美元，逾 11 亿美元只是非约束性 LOI。0.28 倍 PS 不能证明低估，也不是已验证交易机会，不能自动下单 | [OPNW RWA 微盘股观察](reports/investment/2026/retiredxu-opnw-rwa-microcap-rerate/README.md) |

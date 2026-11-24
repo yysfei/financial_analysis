@@ -50,3 +50,37 @@
 - 仓库 `latest-reports` 在写入前已有投资报告 `reports/investment/2026/vix-contrarian-qqq-tqqq/`，主题是 VIX 阈值与 QQQ/TQQQ 配置，与本提示词交易台不同。
 - 仓库既有套利/预测市场报告（AI V2、强化学习择时、xmglia / FOMO、五分钟 BTC、mo-money 等）评估过其它 AI 或机器人宣传，不在本目录重写。
 - 本轮主页时间线覆盖 2026-11-21 03:50:45 UTC 至 08:15:09 UTC（11:50–16:15 Asia/Shanghai）。同一窗口里未并入本结论的材料包括：`@chenke20266` 称购买的 AI 交易程序及“双模型一致才开仓”截图（方法不完整，成绩未独立核验）；`@BTCqzy1` 的 OKX 简易期权体验官分享（带 25 USDT 活动报酬）；`@Amy6Tina` 的社群与业绩曲线宣传；`@Xuegaogx` 的 Gate Money 账户功能介绍；以及宏观或盘面评论。近期书签前 20 条未见需要在本轮新开专题的新增方法。
+
+# 2026-11-24 增补来源
+
+访问时间均为 2026-11-24 Asia/Shanghai。本段追加到既有 sources.md 之后，不删除 2026-11-21 的条目。
+
+## A. 本次新打开的材料
+
+| 编号 | 材料 | 地址 | 访问方式 | 用到的字段或内容 |
+| --- | --- | --- | --- | --- |
+| A9 | `@waveking1314` 新帖 | https://x.com/waveking1314/status/2125067090117931368 | 用户已连接的 X 时间线，并再用公开接口核全文 | 2026-11-24 03:20:50 UTC；MIT 公开课包装成 skill 的安装与 `/mit-trader` 用法；「36 个候选全部 REJECTED」；声明不是 MIT 出品；引用 2120893892396716506 |
+| A10 | 公开仓库 README | https://github.com/roan-maverick/MIT-trader-skill 与 https://raw.githubusercontent.com/roan-maverick/MIT-trader-skill/main/README.md | 公开网页 | 创建时间 2026-11-23T07:44:43Z；51 策略、138 只股票和 ETF 加比特币、10 年、Approved: 0 及示例表；纸面默认与必须对该笔 yes；Yahoo 数据与非官方 API 声明；与 MIT 无隶属关系；代码 MIT License、笔记 CC BY-NC-SA 4.0；Lecture 4 与 22 无官方笔记的说明 |
+| A11 | MIT OCW 18.642（Fall 2024）课程页 | https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/ | 公开网页 | 确认该课存在，是 18.S096 Fall 2013 的更新版；数学与业界应用穿插 |
+| A12 | MIT OCW 18.S096 Lecture 9 | https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/resources/lecture-9-volatility-modeling/ | 公开检索与课程页 | Lecture 9 为 Volatility Modeling，主题含 GARCH。未把 skill 源码与讲义逐式核对 |
+
+## B. 由 A 计算的数字
+
+本轮没有把 README 示例表再做四则运算后写入结论。`Approved: 0` 是页面原文字段。
+
+## C. 第三方叙述
+
+新帖「36 个候选全部 REJECTED」未与 A10 的 51 条结果表逐项对上，保持作者陈述。
+
+## D. 本次未访问或未做
+
+| 编号 | 内容 | 说明 |
+| --- | --- | --- |
+| D7 | 克隆仓库、运行 `python3 -m unittest discover -s tests -v` 或 `hunt.py` | 未执行。不把 README 声称「测试可复现全部数字」写成已经复现 |
+| D8 | `roan-maverick` 与 `@waveking1314` 的身份绑定 | 未打开 GitHub 个人资料或提交邮箱 |
+| D9 | Yahoo Finance 图接口在本轮的可用性、复权方式和限流 | 只记录 README 的风险声明 |
+| D10 | 夜间研究的 token 费用 | 未估算 |
+
+## 去重
+
+这是既有报告 `waveking-ai-prompt-trading-desk` 的实质更新，不新开目录。同窗口其它宣传（交易所返佣、Meme 工具邀请等）不并入本更新。
