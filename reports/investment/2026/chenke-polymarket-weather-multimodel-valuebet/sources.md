@@ -55,3 +55,4 @@ def bucket_prob(values, lo, hi): k = sum(1 for v in values if lo <= v < hi); ret
 - [AI V2 价值投注](../../../arbitrage/2026/polymarket-ai-v2-value-betting/README.md)：同一作者更早的事件价值投注，其中天气 AI 回测为负
 - [BTC 5 分钟双模型](../chenke-btc5m-dual-model-bot/README.md)：同一作者，标的不同
 - [五分钟 BTC](../../../arbitrage/2026/polymarket-5m-btc-microstructure/README.md)：作者用来对比、自称复制不了的延迟交易
+- [neo7777 天气钱包](../linda-polymarket-neo7777-weather/README.md)：2026-11-24 16 时追加的交叉链接。另一发帖人、另一钱包，没有本篇公式。收益不相加
