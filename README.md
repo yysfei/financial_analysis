@@ -9,6 +9,7 @@ Financial Analysis
 
 | 更新日期 | 一句话结论 | 报告 |
 | --- | --- | --- |
+| 2026-11-24 | Kronos 是可克隆的开源 K 线基础模型，仓库和论文都在，但不是外汇自动盈利工具。论文年化超额收益本轮没有复跑，效果最好的 large 权重未开源，官方代码没有下单接口。源码已下载，ZIP 已复制到用户电脑。不应自动下单 | [Kronos K 线基础模型](reports/investment/2026/foodloss-shiyu-kronos-candlestick-fm/README.md) |
 | 2026-11-24 | @Amy6Tina 的长文讨论散户只买看跌：下跌时隐含波动率常上升、下跌更快、put skew 可能被拉开，并写明高分位买 Put 是送钱、连续亏损后加仓会一次亏光。文末署名「期权坤哥」。资格、十倍和亏 31% 均未独立核验，也没有标的、期限和仓位。知识星球涨价和微信引流单列。这不是已验证交易系统，不能自动下单 | [散户只买看跌期权](reports/investment/2026/amy6tina-kunge-put-only-retail/README.md) |
 | 2026-11-24 | 公开钱包页累计盈亏 +$4.5M、最大单笔 $1.5M，可见市场主要是体育盘，与「22 岁大学生用 PhoneDriver 做国内新闻时差、月赚 1.47 万美元」对不上。不能把该钱包盈亏归因到这套故事。像素识别绕过限制只记条款风险。带邀请参数和跟单机器人。这不是已验证的信息时差套利，不应连接钱包或自动下单 | [PhoneDriver 国内新闻时差](reports/investment/2026/linda-polymarket-phonedriver-news-latency/README.md) |
 | 2026-11-24 | 公开页显示 neo7777 以各城市最高气温档为主，累计盈亏 +$47.9K，与宣传的约 48,031 美元同一量级，但城市比「只盯五座」更广，4,739 次预测不能等同 7,958 个市场，三笔高倍单未定位。没有八模型公式。这不是已验证可复制系统，不能自动下单，也不应连接钱包 | [neo7777 天气钱包](reports/investment/2026/linda-polymarket-neo7777-weather/README.md) |
